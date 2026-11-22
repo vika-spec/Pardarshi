@@ -7,7 +7,7 @@ Then put that company's PRE-event annual report PDF in data/raw/reports_in/ and 
     python -m pipelines.build_dataset
     python -m pipelines.rename_reports data/raw/reports_in --fy <FY of the case>
     python -m pipelines.build_redflags --isin <ISIN> --force --pause 6
-See docs/BACKTEST_CASES.md for sources.
+Run with --list to see the prepared cases.
 """
 from __future__ import annotations
 

@@ -17,3 +17,4 @@ backend/data/reports/INE*.pdf
 backend/data/reports/history/
 backend/data/eval/labels_new.csv
 *.log
+.ruff_cache/

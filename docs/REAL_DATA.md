@@ -101,7 +101,7 @@ then rerun `python -m pipelines.build_dataset` (it keeps everything else).
 
 **Which reports first?** Run `python -m pipelines.report_list` after `build_dataset`. It ranks companies by rupees in the
 sample portfolio (what judges see first), then by how widely they're held, and marks which are done. For real
-"Before the fall" cases, follow `docs/BACKTEST_CASES.md`.
+"Before the fall" cases, run `python -m pipelines.add_backtest --list`.
 
 ## 6. Red-flag checks (30–90 min, unattended)
 

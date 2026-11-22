@@ -11,6 +11,7 @@
 ![AI](https://img.shields.io/badge/AI-Groq%20%C2%B7%20Gemini-A51E22?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-1F2328?style=flat-square)
 
+**[🌐 Live app](https://pardarshi-web.delightfultree-9cf66c96.koreacentral.azurecontainerapps.io)** &nbsp;·&nbsp;
 **[▶ Demo video](https://youtu.be/REPLACE_WITH_VIDEO_ID)** &nbsp;·&nbsp;
 **[📘 User guide](docs/guide.pdf)** &nbsp;·&nbsp;
 **[📊 Technical report](docs/report.pdf)** &nbsp;·&nbsp;
@@ -264,7 +265,7 @@ python -m pipelines.export_demo                    # offline demo for the fronte
 <details>
 <summary><b>Deploy</b></summary>
 
-Frontend on **Vercel** (free), API on **Azure Container Apps**, with every cost capped for student credit. See **[docs/DEPLOY.md](docs/DEPLOY.md)**.
+Live on **Azure Container Apps** ([pardarshi-web](https://pardarshi-web.delightfultree-9cf66c96.koreacentral.azurecontainerapps.io)): the web app and the API run as two small containers, with every cost capped for student credit. Vercel also works for the frontend. See **[docs/DEPLOY.md](docs/DEPLOY.md)**.
 </details>
 
 ---
