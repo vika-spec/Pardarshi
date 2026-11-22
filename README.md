@@ -29,9 +29,25 @@
 
 | | | |
 |---|---|---|
-| [What it does](#what-it-does) | [Results on real data](#results) | [How the AI works](#how-the-ai-works) |
+| [The problem](#problem) · [What it does](#what-it-does) | [Results on real data](#results) | [How the AI works](#how-the-ai-works) |
 | [Why it's different](#why-different) | [Reliability, measured](#reliability) | [The AI copilot](#copilot) |
 | [Run it in 5 minutes](#run-it) | [Architecture](#architecture) | [Limitations](#limitations) |
+
+---
+
+<a id="problem"></a>
+
+## ❓ The problem
+
+More and more Indians invest in shares through mutual funds, often by monthly SIP, and pick funds by past returns and star ratings. Three things that decide whether that money is safe stay invisible:
+
+| What's hidden | Why it hurts | Example from our data |
+|---|---|---|
+| **Warning signs inside the companies you own** | Five funds hold hundreds of companies you've never heard of. Red flags are often printed in their annual reports a year before the price falls, but nobody reads 300-page reports. Professionals have analysts; individuals have no one | Gensol's report showed related-party loans at 84% of revenue **7 months before SEBI acted** and the share fell 90% |
+| **Overlap** | Funds from different fund houses buy the same big stocks, so a "diversified" portfolio moves as one | 5 popular funds from 5 fund houses **behave like 1.8 funds** |
+| **Commission** | Regular plans pay a distributor every year; it never appears as a bill | **₹5.4 lakh** lost over 20 years on a ₹6 lakh portfolio |
+
+**Pardarshi makes all three visible, in plain English or Hindi, with the page that proves each claim.**
 
 ---
 
