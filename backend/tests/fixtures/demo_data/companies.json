@@ -1,0 +1,114 @@
+{
+ "ZZDEMO000001": {
+  "name": "Northwind Bank Ltd",
+  "sector": "Banking",
+  "fy": "",
+  "report_url": ""
+ },
+ "ZZDEMO000002": {
+  "name": "Lotus Bank Ltd",
+  "sector": "Banking",
+  "fy": "",
+  "report_url": ""
+ },
+ "ZZDEMO000003": {
+  "name": "Indus Software Ltd",
+  "sector": "IT services",
+  "fy": "",
+  "report_url": ""
+ },
+ "ZZDEMO000004": {
+  "name": "Saffron Energy Ltd",
+  "sector": "Energy",
+  "fy": "",
+  "report_url": ""
+ },
+ "ZZDEMO000005": {
+  "name": "Sample Co. Ltd",
+  "sector": "Consumer goods",
+  "fy": "FY2025-26",
+  "report_url": "/api/reports/ZZDEMO000005.pdf"
+ },
+ "ZZDEMO000006": {
+  "name": "Kaveri Cement Ltd",
+  "sector": "Cement",
+  "fy": "FY2025-26",
+  "report_url": "/api/reports/ZZDEMO000006.pdf"
+ },
+ "ZZDEMO000007": {
+  "name": "Monsoon Foods Ltd",
+  "sector": "Food products",
+  "fy": "FY2025-26",
+  "report_url": "/api/reports/ZZDEMO000007.pdf",
+  "event": {
+   "date": "2026-09-15",
+   "summary": "Fictional: lenders sold pledged promoter shares and the stock fell 70% in a month."
+  }
+ },
+ "ZZDEMO000008": {
+  "name": "Deccan Pharma Ltd",
+  "sector": "Pharma",
+  "fy": "",
+  "report_url": ""
+ },
+ "ZZDEMO000009": {
+  "name": "Ganga Motors Ltd",
+  "sector": "Automobiles",
+  "fy": "",
+  "report_url": ""
+ },
+ "ZZDEMO000010": {
+  "name": "Narmada Telecom Ltd",
+  "sector": "Telecom",
+  "fy": "",
+  "report_url": ""
+ },
+ "ZZDEMO000011": {
+  "name": "Vindhya Steel Ltd",
+  "sector": "Metals",
+  "fy": "",
+  "report_url": ""
+ },
+ "ZZDEMO000012": {
+  "name": "Coral Insurance Ltd",
+  "sector": "Insurance",
+  "fy": "",
+  "report_url": ""
+ },
+ "ZZDEMO000013": {
+  "name": "Teak Retail Ltd",
+  "sector": "Retail",
+  "fy": "",
+  "report_url": ""
+ },
+ "ZZDEMO000014": {
+  "name": "Konkan Paints Ltd",
+  "sector": "Consumer goods",
+  "fy": "",
+  "report_url": ""
+ },
+ "ZZDEMO000015": {
+  "name": "Brahmaputra Power Ltd",
+  "sector": "Power",
+  "fy": "",
+  "report_url": ""
+ },
+ "ZZDEMO000016": {
+  "name": "Aravali Chemicals Ltd",
+  "sector": "Chemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "ZZDEMO000017": {
+  "name": "Malabar Finance Ltd",
+  "sector": "NBFC",
+  "fy": "",
+  "report_url": ""
+ },
+ "ZZDEMO000018": {
+  "name": "Satpura Logistics Ltd",
+  "sector": "Logistics",
+  "fy": "",
+  "report_url": ""
+ }
+}

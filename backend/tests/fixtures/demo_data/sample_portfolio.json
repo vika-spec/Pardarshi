@@ -1,0 +1,35 @@
+{
+ "label": "Sample portfolio (fictional)",
+ "holdings": [
+  {
+   "scheme_id": "DEMO-LCA",
+   "plan": "regular",
+   "value": 180000
+  },
+  {
+   "scheme_id": "DEMO-FCB",
+   "plan": "regular",
+   "value": 150000
+  },
+  {
+   "scheme_id": "DEMO-SCE",
+   "plan": "regular",
+   "value": 120000
+  },
+  {
+   "scheme_id": "DEMO-IXF",
+   "plan": "direct",
+   "value": 90000
+  },
+  {
+   "scheme_id": "DEMO-TSG",
+   "plan": "regular",
+   "value": 60000
+  },
+  {
+   "scheme_id": "DEMO-MCD",
+   "plan": "direct",
+   "value": 75000
+  }
+ ]
+}

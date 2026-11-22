@@ -1,0 +1,6468 @@
+{
+ "INE090A01021": {
+  "name": "ICICI Bank Ltd.",
+  "sector": "Banks",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE040A01034": {
+  "name": "HDFC Bank Ltd.",
+  "sector": "Banks",
+  "fy": "FY2025-26",
+  "report_url": "/api/reports/INE040A01034.pdf"
+ },
+ "INE002A01018": {
+  "name": "Reliance Industries Ltd.",
+  "sector": "Petroleum Products",
+  "fy": "FY2025-26",
+  "report_url": "/api/reports/INE002A01018.pdf"
+ },
+ "INE397D01024": {
+  "name": "Bharti Airtel Ltd.",
+  "sector": "Telecom - Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE062A01020": {
+  "name": "State Bank of India",
+  "sector": "Banks",
+  "fy": "FY2025-26",
+  "report_url": "/api/reports/INE062A01020.pdf"
+ },
+ "INE238A01034": {
+  "name": "Axis Bank Ltd.",
+  "sector": "Banks",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE237A01036": {
+  "name": "Kotak Mahindra Bank Ltd.",
+  "sector": "Banks",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE296A01032": {
+  "name": "Bajaj Finance Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE758T01015": {
+  "name": "Eternal Ltd.",
+  "sector": "Retailing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE018A01030": {
+  "name": "Larsen & Toubro Ltd.",
+  "sector": "Construction",
+  "fy": "FY2025-26",
+  "report_url": "/api/reports/INE018A01030.pdf"
+ },
+ "INE101A01026": {
+  "name": "Mahindra & Mahindra Ltd.",
+  "sector": "Automobiles",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE009A01021": {
+  "name": "Infosys Ltd.",
+  "sector": "IT - Software",
+  "fy": "FY2025-26",
+  "report_url": "/api/reports/INE009A01021.pdf"
+ },
+ "INE044A01036": {
+  "name": "Sun Pharmaceutical Industries Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE038A01020": {
+  "name": "Hindalco Industries Ltd.",
+  "sector": "Non - Ferrous Metals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE262H01021": {
+  "name": "Persistent Systems Ltd.",
+  "sector": "IT - Software",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE073K01018": {
+  "name": "Sona Blw Precision Forgings Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE854D01024": {
+  "name": "United Spirits Ltd.",
+  "sector": "Beverages",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE192A01025": {
+  "name": "Tata Consumer Products Ltd.",
+  "sector": "Agricultural Food & other Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0VDM01015": {
+  "name": "Meesho Ltd.",
+  "sector": "Retailing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE068V01023": {
+  "name": "Gland Pharma Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE121A01024": {
+  "name": "Cholamandalam Investment & Finance Co. Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE047A01021": {
+  "name": "Grasim Industries Ltd.",
+  "sector": "Cement & Cement Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE263A01024": {
+  "name": "Bharat Electronics Ltd.",
+  "sector": "Aerospace & Defense",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE669C01036": {
+  "name": "Tech Mahindra Ltd.",
+  "sector": "IT - Software",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE721A01047": {
+  "name": "Shriram Finance Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE956O01016": {
+  "name": "Lenskart Solutions Ltd.",
+  "sector": "Retailing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE171A01029": {
+  "name": "The Federal Bank Ltd.",
+  "sector": "Banks",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE102D01028": {
+  "name": "Godrej Consumer Products Ltd.",
+  "sector": "Personal Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE749A01030": {
+  "name": "Jindal Steel Ltd.",
+  "sector": "Ferrous Metals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE776C01039": {
+  "name": "GMR Airports Ltd.",
+  "sector": "Transport Infrastructure",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE1TAE01010": {
+  "name": "Tata Motors Ltd.",
+  "sector": "Agricultural, Commercial & Construction Vehicles",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE405E01023": {
+  "name": "UNO Minda Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE437A01024": {
+  "name": "Apollo Hospitals Enterprise Ltd.",
+  "sector": "Healthcare Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE031B01049": {
+  "name": "Ajanta Pharma Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE055S01018": {
+  "name": "Cyient DLM Ltd.",
+  "sector": "Aerospace & Defense",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE931S01010": {
+  "name": "Adani Energy Solutions Ltd.",
+  "sector": "Power",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE406M01024": {
+  "name": "Eris Lifesciences Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE423A01024": {
+  "name": "Adani Enterprises Ltd.",
+  "sector": "Metals & Minerals Trading",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0CZ201020": {
+  "name": "Anthem Biosciences Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE280A01028": {
+  "name": "Titan Company Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE647A01010": {
+  "name": "SRF Ltd.",
+  "sector": "Chemicals & Petrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE221B01012": {
+  "name": "Dynamatic Technologies Ltd.",
+  "sector": "Industrial Manufacturing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE192R01011": {
+  "name": "Avenue Supermarts Ltd.",
+  "sector": "Retailing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE466L01038": {
+  "name": "360 ONE WAM Ltd.",
+  "sector": "Capital Markets",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE591G01025": {
+  "name": "Coforge Ltd.",
+  "sector": "IT - Software",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE387A01021": {
+  "name": "Sundram Fasteners Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE079A01024": {
+  "name": "Ambuja Cements Ltd.",
+  "sector": "Cement & Cement Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE325A01013": {
+  "name": "Timken India Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE003A01024": {
+  "name": "Siemens Ltd.",
+  "sector": "Electrical Equipment",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE823G01014": {
+  "name": "JK Cement Ltd.",
+  "sector": "Cement & Cement Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE765G01017": {
+  "name": "ICICI Lombard General Insurance Company Ltd.",
+  "sector": "Insurance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE849A01020": {
+  "name": "Trent Ltd.",
+  "sector": "Retailing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE918I01026": {
+  "name": "Bajaj Finserv Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE123W01016": {
+  "name": "SBI Life Insurance Co. Ltd.",
+  "sector": "Insurance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE100A01010": {
+  "name": "Atul Ltd.",
+  "sector": "Chemicals & Petrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE465A01025": {
+  "name": "Bharat Forge Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE214T01019": {
+  "name": "LTM Ltd.",
+  "sector": "IT - Software",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE742F01042": {
+  "name": "Adani Ports and Special Economic Zone Ltd.",
+  "sector": "Transport Infrastructure",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE111A01025": {
+  "name": "Container Corporation of India Ltd.",
+  "sector": "Transport Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE1CDF01017": {
+  "name": "Vedanta Aluminium Metal Ltd.",
+  "sector": "Non - Ferrous Metals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE572E01012": {
+  "name": "PNB Housing Finance Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE154A01025": {
+  "name": "ITC Ltd.",
+  "sector": "Diversified FMCG",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE872J01023": {
+  "name": "Devyani International Ltd.",
+  "sector": "Leisure Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0BJO01010": {
+  "name": "Jio Platforms Ltd.",
+  "sector": "Telecom - Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE212H01026": {
+  "name": "AIA Engineering Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE974X01010": {
+  "name": "Tube Investments of India Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE066F01020": {
+  "name": "Hindustan Aeronautics Ltd.",
+  "sector": "Aerospace & Defense",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE258G01013": {
+  "name": "Sumitomo Chemical India Ltd.",
+  "sector": "Fertilizers & Agrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE376G01013": {
+  "name": "Biocon Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE136B01020": {
+  "name": "Cyient Ltd.",
+  "sector": "IT - Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0UOS01011": {
+  "name": "Sanofi Consumer Healthcare India Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE887G01027": {
+  "name": "Gokaldas Exports Ltd.",
+  "sector": "Textiles & Apparels",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE716A01013": {
+  "name": "Whirlpool of India Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE226A01021": {
+  "name": "Voltas Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE526E01018": {
+  "name": "SPR Auto Technologies Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE115Q01022": {
+  "name": "Inventurus Knowledge Solutions Ltd.",
+  "sector": "IT - Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE00H001014": {
+  "name": "Swiggy Ltd.",
+  "sector": "Retailing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE797F01020": {
+  "name": "Jubilant Foodworks Ltd.",
+  "sector": "Leisure Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE06ST01018": {
+  "name": "Indiqube Spaces Ltd.",
+  "sector": "Commercial Services & Supplies",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE646L01027": {
+  "name": "Interglobe Aviation Ltd.",
+  "sector": "Transport Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE949L01017": {
+  "name": "AU Small Finance Bank Ltd.",
+  "sector": "Banks",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE048G01026": {
+  "name": "Navin Fluorine International Ltd.",
+  "sector": "Chemicals & Petrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE702C01027": {
+  "name": "APL Apollo Tubes Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE006I01046": {
+  "name": "Astral Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE494B01023": {
+  "name": "TVS Motor Company Ltd.",
+  "sector": "Automobiles",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE180A01020": {
+  "name": "Max Financial Services Ltd.",
+  "sector": "Insurance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE982J01020": {
+  "name": "One 97 Communications Ltd.",
+  "sector": "Financial Technology (Fintech)",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE775A01035": {
+  "name": "Samvardhana Motherson International Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE634S01028": {
+  "name": "Mankind Pharma Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE930H01031": {
+  "name": "K.P.R. Mill Ltd.",
+  "sector": "Textiles & Apparels",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE513A01022": {
+  "name": "Schaeffler India Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE036D01028": {
+  "name": "Karur Vysya Bank Ltd.",
+  "sector": "Banks",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE878B01027": {
+  "name": "KEI Industries Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE061F01013": {
+  "name": "Fortis Healthcare Ltd.",
+  "sector": "Healthcare Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE112L01020": {
+  "name": "Metropolis Healthcare Ltd.",
+  "sector": "Healthcare Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE117A01022": {
+  "name": "ABB India Ltd.",
+  "sector": "Electrical Equipment",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0DYJ01015": {
+  "name": "Syrma SGS Technology Ltd.",
+  "sector": "Industrial Manufacturing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE371P01015": {
+  "name": "Amber Enterprises India Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE128S01021": {
+  "name": "Five Star Business Finance Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE08U801020": {
+  "name": "Samhi Hotels Ltd.",
+  "sector": "Leisure Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE481N01025": {
+  "name": "Home First Finance Company India Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE168P01015": {
+  "name": "Emcure Pharmaceuticals Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE212S01015": {
+  "name": "Fractal Analytics Ltd.",
+  "sector": "IT - Software",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE791I01019": {
+  "name": "Brigade Enterprises Ltd.",
+  "sector": "Realty",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE027H01010": {
+  "name": "Max Healthcare Institute Ltd.",
+  "sector": "Healthcare Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE118H01025": {
+  "name": "BSE Ltd.",
+  "sector": "Capital Markets",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE745G01043": {
+  "name": "Multi Commodity Exchange of India Ltd.",
+  "sector": "Capital Markets",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE894V01022": {
+  "name": "Belrise Industries Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE067A01029": {
+  "name": "CG Power and Industrial Solutions Ltd.",
+  "sector": "Electrical Equipment",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE616N01034": {
+  "name": "Inox India Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE138Y01010": {
+  "name": "Kfin Technologies Ltd.",
+  "sector": "Capital Markets",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE356A01018": {
+  "name": "Mphasis Ltd.",
+  "sector": "IT - Software",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE417T01026": {
+  "name": "PB Fintech Ltd.",
+  "sector": "Financial Technology (Fintech)",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE457A01014": {
+  "name": "Bank of Maharashtra",
+  "sector": "Banks",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE372A01015": {
+  "name": "Apar Industries Ltd.",
+  "sector": "Electrical Equipment",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE679V01027": {
+  "name": "Aditya Vision Ltd.",
+  "sector": "Retailing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE694L01019": {
+  "name": "Vedanta Power Ltd.",
+  "sector": "Power",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE093A01041": {
+  "name": "Hexaware Technologies Ltd.",
+  "sector": "IT - Software",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE795G01014": {
+  "name": "HDFC Life Insurance Company Ltd.",
+  "sector": "Insurance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE121E01018": {
+  "name": "JSW Energy Ltd.",
+  "sector": "Power",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE200M01039": {
+  "name": "Varun Beverages Ltd.",
+  "sector": "Beverages",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0HOQ01053": {
+  "name": "Billionbrains Garage Ventures Ltd.",
+  "sector": "Capital Markets",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE423Y01016": {
+  "name": "SBFC Finance Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE819V01029": {
+  "name": "Aditya Infotech Ltd.",
+  "sector": "Industrial Manufacturing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE732A01036": {
+  "name": "Kirloskar Brothers Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE105A01035": {
+  "name": "TVS Holdings Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE323A01026": {
+  "name": "Bosch Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE814H01029": {
+  "name": "Adani Power Ltd.",
+  "sector": "Power",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE596I01020": {
+  "name": "Computer Age Management Services Ltd.",
+  "sector": "Capital Markets",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE594H01019": {
+  "name": "Thyrocare Technologies Ltd.",
+  "sector": "Healthcare Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE498L01015": {
+  "name": "L&T Finance Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE733E01010": {
+  "name": "NTPC Ltd.",
+  "sector": "Power",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE322A01010": {
+  "name": "Gillette India Ltd.",
+  "sector": "Personal Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE119A01028": {
+  "name": "Balrampur Chini Mills Ltd.",
+  "sector": "Agricultural Food & other Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE298A01020": {
+  "name": "Cummins India Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE935N01020": {
+  "name": "Dixon Technologies (India) Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE030A01027": {
+  "name": "Hindustan Unilever Ltd.",
+  "sector": "Diversified FMCG",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE570L01029": {
+  "name": "Sai Life Sciences Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE456Z01021": {
+  "name": "Medi Assist Healthcare Services Ltd.",
+  "sector": "Insurance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE055A01016": {
+  "name": "Aditya Birla Real Estate Ltd.",
+  "sector": "Realty",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE02ZQ01018": {
+  "name": "Corona Remedies Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE332A01027": {
+  "name": "Thomas Cook (India) Ltd.",
+  "sector": "Leisure Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE03JT01014": {
+  "name": "GO Digit General Insurance Ltd.",
+  "sector": "Insurance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE298J01013": {
+  "name": "Nippon Life India Asset Management Ltd.",
+  "sector": "Capital Markets",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE951I01027": {
+  "name": "V-Guard Industries Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE427F01016": {
+  "name": "Chalet Hotels Ltd.",
+  "sector": "Leisure Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE811K01011": {
+  "name": "Prestige Estates Projects Ltd.",
+  "sector": "Realty",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0LEZ01016": {
+  "name": "Ather Energy Ltd.",
+  "sector": "Automobiles",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE410B01037": {
+  "name": "Vinati Organics Ltd.",
+  "sector": "Chemicals & Petrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE034A01011": {
+  "name": "Arvind Ltd.",
+  "sector": "Textiles & Apparels",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0CAZ01013": {
+  "name": "Urban Company Ltd.",
+  "sector": "Retailing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE324D01010": {
+  "name": "LG Electronics India Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE877V01027": {
+  "name": "Suraksha Diagnostic Ltd.",
+  "sector": "Healthcare Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE738I01010": {
+  "name": "eClerx Services Ltd.",
+  "sector": "Commercial Services & Supplies",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE00XB01019": {
+  "name": "Sedemac Mechatronics Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE860A01027": {
+  "name": "HCL Technologies Ltd.",
+  "sector": "IT - Software",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE600L01024": {
+  "name": "Dr. Lal Path labs Ltd.",
+  "sector": "Healthcare Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE944F01028": {
+  "name": "Radico Khaitan Ltd.",
+  "sector": "Beverages",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE094A01015": {
+  "name": "Hindustan Petroleum Corporation Ltd.",
+  "sector": "Petroleum Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE191B01025": {
+  "name": "Welspun Corp Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE917I01010": {
+  "name": "Bajaj Auto Ltd.",
+  "sector": "Automobiles",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE220B01022": {
+  "name": "Kalpataru Projects International Ltd.",
+  "sector": "Construction",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE021A01026": {
+  "name": "Asian Paints Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE732I01021": {
+  "name": "Angel One Ltd.",
+  "sector": "Capital Markets",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE585B01010": {
+  "name": "Maruti Suzuki India Ltd.",
+  "sector": "Automobiles",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE059A01026": {
+  "name": "Cipla Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE00IT01020": {
+  "name": "Milky Mist Dairy Food Ltd.",
+  "sector": "Food Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE121R01077": {
+  "name": "Amagi Media Labs Ltd.",
+  "sector": "IT - Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE777K01022": {
+  "name": "R R Kabel Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE825V01034": {
+  "name": "Vedant Fashions Ltd.",
+  "sector": "Retailing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE741K01010": {
+  "name": "CreditAccess Grameen Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE669E01016": {
+  "name": "Vodafone Idea Ltd.",
+  "sector": "Telecom - Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE603J01030": {
+  "name": "PI Industries Ltd.",
+  "sector": "Fertilizers & Agrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE013P01021": {
+  "name": "Onesource Specialty Pharma Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE671A01010": {
+  "name": "Honeywell Automation India Ltd.",
+  "sector": "Industrial Manufacturing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE084101034": {
+  "name": "INDO-MIM Ltd.",
+  "sector": "Industrial Manufacturing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE671H01015": {
+  "name": "Sobha Ltd.",
+  "sector": "Realty",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE926X01010": {
+  "name": "H.G. Infra Engineering Ltd.",
+  "sector": "Construction",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE330T01021": {
+  "name": "Happy Forgings Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE103V01028": {
+  "name": "Travel Food Services Ltd.",
+  "sector": "Leisure Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE624Z01016": {
+  "name": "Solara Active Pharma Sciences Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE216A01030": {
+  "name": "Britannia Industries Ltd.",
+  "sector": "Food Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE239A01024": {
+  "name": "Nestle India Ltd.",
+  "sector": "Food Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0V6F01027": {
+  "name": "Hyundai Motor India Ltd.",
+  "sector": "Automobiles",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE007A01025": {
+  "name": "CRISIL Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE470A01017": {
+  "name": "3M India Ltd.",
+  "sector": "Diversified",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE199A01012": {
+  "name": "Procter & Gamble Health Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE536A01023": {
+  "name": "Grindwell Norton Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE182A01018": {
+  "name": "Pfizer Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE208A01029": {
+  "name": "Ashok Leyland Ltd.",
+  "sector": "Agricultural, Commercial & Construction Vehicles",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE439A01020": {
+  "name": "Asahi India Glass Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE462A01022": {
+  "name": "Bayer Cropscience Ltd.",
+  "sector": "Fertilizers & Agrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE09PO01019": {
+  "name": "Zetwerk Manufacturing Businesses Ltd.",
+  "sector": "Industrial Manufacturing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE200A01026": {
+  "name": "GE Vernova T&D India Ltd.",
+  "sector": "Electrical Equipment",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE159A01016": {
+  "name": "Glaxosmithkline Pharmaceuticals Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE179A01014": {
+  "name": "Procter & Gamble Hygiene and Health Care Ltd.",
+  "sector": "Personal Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE205A01025": {
+  "name": "Vedanta Ltd.",
+  "sector": "Diversified Metals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE686F01025": {
+  "name": "United Breweries Ltd.",
+  "sector": "Beverages",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE806T01020": {
+  "name": "Sapphire Foods India Ltd.",
+  "sector": "Leisure Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE042A01014": {
+  "name": "Escorts Kubota Ltd.",
+  "sector": "Agricultural, Commercial & Construction Vehicles",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE358A01014": {
+  "name": "Abbott India Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE28SO01013": {
+  "name": "Bonfiglioli Transmissions Ltd.",
+  "sector": "Industrial Manufacturing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE361B01024": {
+  "name": "Divi's Laboratories Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE03QK01018": {
+  "name": "Cohance Lifesciences Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE419M01035": {
+  "name": "TD Power Systems Ltd.",
+  "sector": "Electrical Equipment",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE321T01012": {
+  "name": "Doms Industries Ltd.",
+  "sector": "Household Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0KCE01017": {
+  "name": "Eureka Forbes Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE725G01011": {
+  "name": "ICRA Ltd.",
+  "sector": "Capital Markets",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE284A01012": {
+  "name": "ESAB India Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE16NZ01023": {
+  "name": "Orkla India Ltd.",
+  "sector": "Food Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE177A01018": {
+  "name": "Ingersoll Rand (India) Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE618F01010": {
+  "name": "Sparkle Gold Rock Ltd.",
+  "sector": "Miscellaneous",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE467B01029": {
+  "name": "Tata Consultancy Services Ltd.",
+  "sector": "IT - Software",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0CLI01024": {
+  "name": "Rategain Travel Technologies Ltd.",
+  "sector": "IT - Software",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE684F01012": {
+  "name": "Firstsource Solutions Ltd.",
+  "sector": "Commercial Services & Supplies",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0LP301011": {
+  "name": "Physicswallah Ltd.",
+  "sector": "Other Consumer Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0W2G01015": {
+  "name": "Sagility Ltd.",
+  "sector": "IT - Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE04I401011": {
+  "name": "KPIT Technologies Ltd.",
+  "sector": "IT - Software",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE269A01021": {
+  "name": "Sonata Software Ltd.",
+  "sector": "IT - Software",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE00WC01027": {
+  "name": "AFFLE 3I Ltd.",
+  "sector": "IT - Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0ILV01024": {
+  "name": "Capillary Technologies India Ltd.",
+  "sector": "IT - Software",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0I7C01011": {
+  "name": "Latent View Analytics Ltd.",
+  "sector": "IT - Software",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE759A01021": {
+  "name": "Mastek Ltd.",
+  "sector": "IT - Software",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE925R01014": {
+  "name": "CMS Info Systems Ltd.",
+  "sector": "Commercial Services & Supplies",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE472A01039": {
+  "name": "Blue Star Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE088F01024": {
+  "name": "Paradeep Phosphates Ltd.",
+  "sector": "Fertilizers & Agrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE120A01034": {
+  "name": "Carborundum Universal Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE628A01036": {
+  "name": "UPL Ltd.",
+  "sector": "Fertilizers & Agrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE481G01011": {
+  "name": "Ultratech Cement Ltd.",
+  "sector": "Cement & Cement Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE058A01010": {
+  "name": "Sanofi India Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE269B01029": {
+  "name": "LMW Ltd.",
+  "sector": "Industrial Manufacturing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE043W01024": {
+  "name": "Vijaya Diagnostic Centre Ltd.",
+  "sector": "Healthcare Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE787D01026": {
+  "name": "Balkrishna Industries Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE304W01038": {
+  "name": "BlueStone Jewellery & Lifestyle Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE012A01025": {
+  "name": "ACC Ltd.",
+  "sector": "Cement & Cement Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE615H01020": {
+  "name": "Titagarh Rail Systems Ltd.",
+  "sector": "Industrial Manufacturing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE619A01035": {
+  "name": "Patanjali Foods Ltd.",
+  "sector": "Agricultural Food & other Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE14LE01019": {
+  "name": "Aditya Birla Lifestyle Brands Ltd.",
+  "sector": "Retailing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE148G01016": {
+  "name": "Asset Reconstruction Co India Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE674K01013": {
+  "name": "Aditya Birla Capital Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE133A01029": {
+  "name": "JSW Dulux Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE271C01023": {
+  "name": "DLF Ltd.",
+  "sector": "Realty",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE029A01011": {
+  "name": "Bharat Petroleum Corporation Ltd.",
+  "sector": "Petroleum Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE545U01014": {
+  "name": "Bandhan Bank Ltd.",
+  "sector": "Banks",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE15B701018": {
+  "name": "Pine Labs Ltd.",
+  "sector": "Financial Technology (Fintech)",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE459N01021": {
+  "name": "Manipal Health Enterprises Ltd",
+  "sector": "Healthcare Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE721I01024": {
+  "name": "National Stock Exchange of India Ltd.",
+  "sector": "Capital Markets",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE101I01011": {
+  "name": "Afcons Infrastructure Ltd.",
+  "sector": "Construction",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE081A01020": {
+  "name": "Tata Steel Ltd.",
+  "sector": "Ferrous Metals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE752E01010": {
+  "name": "Power Grid Corporation of India Ltd.",
+  "sector": "Power",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE019A01038": {
+  "name": "JSW Steel Ltd.",
+  "sector": "Ferrous Metals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE066A01021": {
+  "name": "Eicher Motors Ltd.",
+  "sector": "Automobiles",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE522F01014": {
+  "name": "Coal India Ltd.",
+  "sector": "Consumable Fuels",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE213A01029": {
+  "name": "Oil & Natural Gas Corporation Ltd.",
+  "sector": "Oil",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE089A01031": {
+  "name": "Dr. Reddy's Laboratories Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE758E01017": {
+  "name": "Jio Financial Services Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE155A01022": {
+  "name": "Tata Motors Passenger Vehicles Ltd.",
+  "sector": "Automobiles",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE152A01029": {
+  "name": "Thermax Ltd.",
+  "sector": "Electrical Equipment",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE491A01021": {
+  "name": "City Union Bank Ltd.",
+  "sector": "Banks",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE195A01028": {
+  "name": "Supreme Industries Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE495P01020": {
+  "name": "Mrs. Bectors Food Specialities Ltd.",
+  "sector": "Food Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE031A01017": {
+  "name": "Housing and Urban Development Corporation Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE01EA01019": {
+  "name": "Vishal Mega Mart Ltd.",
+  "sector": "Retailing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE085001019": {
+  "name": "Wework India Management Ltd.",
+  "sector": "Commercial Services & Supplies",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE192B01031": {
+  "name": "Welspun Living Ltd.",
+  "sector": "Textiles & Apparels",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE813H01021": {
+  "name": "Torrent Power Ltd.",
+  "sector": "Power",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE09N301011": {
+  "name": "Gujarat Fluorochemicals Ltd.",
+  "sector": "Chemicals & Petrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0J1N01028": {
+  "name": "Orient Cables India Ltd.",
+  "sector": "Telecom - Equipment & Accessories",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE511C01022": {
+  "name": "Poonawalla Fincorp Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE852O01025": {
+  "name": "Aptus Value Housing Finance India Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE540L01014": {
+  "name": "Alkem Laboratories Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE718I01012": {
+  "name": "JSW Cement Ltd.",
+  "sector": "Cement & Cement Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE239C01020": {
+  "name": "Stylam Industries Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE571A01038": {
+  "name": "IPCA Laboratories Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE07Y701011": {
+  "name": "Hitachi Energy India Ltd.",
+  "sector": "Electrical Equipment",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE139A01034": {
+  "name": "National Aluminium Company Ltd.",
+  "sector": "Non - Ferrous Metals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE084A01016": {
+  "name": "Bank of India",
+  "sector": "Banks",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE377N01017": {
+  "name": "Waaree Energies Ltd.",
+  "sector": "Electrical Equipment",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE18AK01028": {
+  "name": "HD Fire Protect Ltd.",
+  "sector": "Industrial Manufacturing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE146L01010": {
+  "name": "Kirloskar Oil Engines Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE343G01021": {
+  "name": "Bharti Hexacom Ltd.",
+  "sector": "Telecom - Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0QJW01029": {
+  "name": "Lohia Corp Ltd.",
+  "sector": "Industrial Manufacturing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE388Y01029": {
+  "name": "FSN E-Commerce Ventures Ltd.",
+  "sector": "Retailing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE622W01025": {
+  "name": "Acme Solar Holdings Ltd.",
+  "sector": "Power",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE953O01021": {
+  "name": "Sansera Engineering Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE406A01037": {
+  "name": "Aurobindo Pharma Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE257A01026": {
+  "name": "Bharat Heavy Electricals Ltd.",
+  "sector": "Electrical Equipment",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE685A01028": {
+  "name": "Torrent Pharmaceuticals Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE202B01038": {
+  "name": "Piramal Finance Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE913H01037": {
+  "name": "Endurance Technologies Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0DK501011": {
+  "name": "Piramal Pharma Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE386D01027": {
+  "name": "Shivalik Bimetal Controls Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE457L01029": {
+  "name": "PG Electroplast Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE348L01012": {
+  "name": "Mas Financial Services Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE08ZM01014": {
+  "name": "Greenpanel Industries Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE00FF01025": {
+  "name": "Acutaas Chemicals Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE743M01012": {
+  "name": "RHI Magnesita India Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE152M01016": {
+  "name": "Triveni Turbine Ltd.",
+  "sector": "Electrical Equipment",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE00E101023": {
+  "name": "Bikaji Foods International Ltd.",
+  "sector": "Food Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE074A01025": {
+  "name": "Praj Industries Ltd.",
+  "sector": "Industrial Manufacturing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE284S01014": {
+  "name": "S.J.S. Enterprises Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE640G01020": {
+  "name": "SBI funds Management ltd.",
+  "sector": "Capital Markets",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE01NH01023": {
+  "name": "Dhoot Transmission Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE663F01032": {
+  "name": "Info Edge (India) Ltd.",
+  "sector": "Retailing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE317I01021": {
+  "name": "Metro Brands Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE211B01039": {
+  "name": "The Phoenix Mills Ltd.",
+  "sector": "Realty",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE133E01013": {
+  "name": "Tilaknagar Industries Ltd.",
+  "sector": "Beverages",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0J5401028": {
+  "name": "Honasa Consumer Ltd.",
+  "sector": "Personal Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE379A01028": {
+  "name": "ITC Hotels Ltd.",
+  "sector": "Leisure Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE461C01038": {
+  "name": "Greenply Industries Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0LDG01026": {
+  "name": "Tonbo Imaging India Ltd.",
+  "sector": "Aerospace & Defense",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE540H01012": {
+  "name": "Voltamp Transformers Ltd.",
+  "sector": "Electrical Equipment",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE347G01014": {
+  "name": "Petronet LNG Ltd.",
+  "sector": "Gas",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE00LO01017": {
+  "name": "Craftsman Automation Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE211R01019": {
+  "name": "Power Mech Projects Ltd.",
+  "sector": "Construction",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE758C01029": {
+  "name": "Ahluwalia Contracts (India) Ltd.",
+  "sector": "Construction",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE880J01026": {
+  "name": "JSW Infrastructure Ltd.",
+  "sector": "Transport Infrastructure",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE596F01018": {
+  "name": "PTC Industries Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE151G01028": {
+  "name": "Shaily Engineering Plastics Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE101D01020": {
+  "name": "Granules India Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE551W01018": {
+  "name": "Ujjivan Small Finance Bank Ltd.",
+  "sector": "Banks",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE976G01028": {
+  "name": "RBL Bank Ltd.",
+  "sector": "Banks",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE421D01022": {
+  "name": "CCL Products (India) Ltd.",
+  "sector": "Agricultural Food & other Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE522D01027": {
+  "name": "Manappuram Finance Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE00VM01036": {
+  "name": "Manorama Industries Ltd.",
+  "sector": "Food Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE331A01037": {
+  "name": "The Ramco Cements Ltd.",
+  "sector": "Cement & Cement Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE686A01026": {
+  "name": "Cemindia Projects Ltd.",
+  "sector": "Construction",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE324A01032": {
+  "name": "Jindal Saw Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE503A01015": {
+  "name": "DCB Bank Ltd.",
+  "sector": "Banks",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE790G01031": {
+  "name": "Shilpa Medicare Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE589A01014": {
+  "name": "NLC India Ltd.",
+  "sector": "Power",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE700A01033": {
+  "name": "Jubilant Pharmova Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE524A01029": {
+  "name": "Gabriel India Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0NNS01018": {
+  "name": "NMDC Steel Ltd.",
+  "sector": "Ferrous Metals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE715A01015": {
+  "name": "Wheels India Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE148O01028": {
+  "name": "Delhivery Ltd.",
+  "sector": "Transport Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0QPI01025": {
+  "name": "Sudeep Pharma Ltd.",
+  "sector": "Chemicals & Petrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE842C01021": {
+  "name": "Minda Corporation Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0PTN01011": {
+  "name": "Moneyview Ltd.",
+  "sector": "Financial Technology (Fintech)",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE602A01031": {
+  "name": "PCBL Chemical Ltd.",
+  "sector": "Chemicals & Petrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE612J01015": {
+  "name": "Repco Home Finance Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE142Z01019": {
+  "name": "Orient Electric Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE08N601015": {
+  "name": "M & B Engineering Ltd.",
+  "sector": "Construction",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE1KZI01025": {
+  "name": "Tempsens Instruments (India) Ltd.",
+  "sector": "Industrial Manufacturing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE967H01025": {
+  "name": "Krishna Institute of Medical Sciences Ltd.",
+  "sector": "Healthcare Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE501A01019": {
+  "name": "Deepak Fertilizers and Petrochemicals Corporation Ltd.",
+  "sector": "Chemicals & Petrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE139R01012": {
+  "name": "Fusion Finance Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE133Y01011": {
+  "name": "IFGL Refractories Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE450D01021": {
+  "name": "Pitti Engineering Ltd.",
+  "sector": "Industrial Manufacturing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE692A01016": {
+  "name": "Union Bank of India",
+  "sector": "Banks",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0J1Y01017": {
+  "name": "Life Insurance Corporation of India",
+  "sector": "Insurance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE726V01018": {
+  "name": "Pricol Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE242C01024": {
+  "name": "Anant Raj Ltd.",
+  "sector": "Realty",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE364U01010": {
+  "name": "Adani Green Energy Ltd.",
+  "sector": "Power",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE584A01023": {
+  "name": "NMDC Ltd.",
+  "sector": "Minerals & Mining",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE939A01011": {
+  "name": "Strides Pharma Science Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE114A01011": {
+  "name": "Steel Authority of India Ltd.",
+  "sector": "Ferrous Metals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE121J01017": {
+  "name": "Indus Towers Ltd.",
+  "sector": "Telecom - Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE095A01012": {
+  "name": "IndusInd Bank Ltd.",
+  "sector": "Banks",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE267A01025": {
+  "name": "Hindustan Zinc Ltd.",
+  "sector": "Non - Ferrous Metals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE935A01035": {
+  "name": "Glenmark Pharmaceuticals Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE528G01035": {
+  "name": "Yes Bank Ltd.",
+  "sector": "Banks",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE476A01022": {
+  "name": "Canara Bank",
+  "sector": "Banks",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE947Q01028": {
+  "name": "Laurus Labs Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE115A01026": {
+  "name": "LIC Housing Finance Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE484J01027": {
+  "name": "Godrej Properties Ltd.",
+  "sector": "Realty",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE414G01012": {
+  "name": "Muthoot Finance Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE242A01010": {
+  "name": "Indian Oil Corporation Ltd.",
+  "sector": "Petroleum Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE134E01011": {
+  "name": "Power Finance Corporation Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE028A01039": {
+  "name": "Bank of Baroda",
+  "sector": "Banks",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE303R01014": {
+  "name": "Kalyan Jewellers India Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE299U01018": {
+  "name": "Crompton Greaves Consumer Electricals Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE160A01022": {
+  "name": "Punjab National Bank",
+  "sector": "Banks",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE196A01026": {
+  "name": "Marico Ltd.",
+  "sector": "Agricultural Food & other Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE129A01019": {
+  "name": "GAIL (India) Ltd.",
+  "sector": "Gas",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE245A01021": {
+  "name": "Tata Power Company Ltd.",
+  "sector": "Power",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE095N01031": {
+  "name": "NBCC (India) Ltd.",
+  "sector": "Construction",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE127D01025": {
+  "name": "HDFC Asset Management Co. Ltd.",
+  "sector": "Capital Markets",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE736A01011": {
+  "name": "Central Depository Services (I) Ltd.",
+  "sector": "Capital Markets",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE075A01022": {
+  "name": "Wipro Ltd.",
+  "sector": "IT - Software",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE343H01029": {
+  "name": "Solar Industries India Ltd.",
+  "sector": "Chemicals & Petrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE092T01019": {
+  "name": "IDFC First Bank Ltd.",
+  "sector": "Banks",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE326A01037": {
+  "name": "Lupin Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE022Q01020": {
+  "name": "Indian Energy Exchange Ltd.",
+  "sector": "Capital Markets",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE318A01026": {
+  "name": "Pidilite Industries Ltd.",
+  "sector": "Chemicals & Petrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE455K01017": {
+  "name": "Polycab India Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE020B01018": {
+  "name": "REC Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE040H01021": {
+  "name": "Suzlon Energy Ltd.",
+  "sector": "Electrical Equipment",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE093I01010": {
+  "name": "Oberoi Realty Ltd.",
+  "sector": "Realty",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE562A01011": {
+  "name": "Indian Bank",
+  "sector": "Banks",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE066P01011": {
+  "name": "Inox Wind Ltd.",
+  "sector": "Electrical Equipment",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE670K01029": {
+  "name": "Lodha Developers Ltd.",
+  "sector": "Realty",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE053A01029": {
+  "name": "The Indian Hotels Company Ltd.",
+  "sector": "Leisure Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE010B01027": {
+  "name": "Zydus Lifesciences Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE259A01022": {
+  "name": "Colgate Palmolive (India) Ltd.",
+  "sector": "Personal Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE176B01034": {
+  "name": "Havells India Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE249Z01020": {
+  "name": "Mazagon Dock Shipbuilders Ltd.",
+  "sector": "Industrial Manufacturing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE1NPP01017": {
+  "name": "Siemens Energy India Ltd.",
+  "sector": "Electrical Equipment",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE338I01027": {
+  "name": "Motilal Oswal Financial Services Ltd.",
+  "sector": "Capital Markets",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE018E01016": {
+  "name": "SBI Cards & Payment Services Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE415G01027": {
+  "name": "Rail Vikas Nigam Ltd.",
+  "sector": "Construction",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE463V01026": {
+  "name": "AnandRathi Wealth Ltd.",
+  "sector": "Capital Markets",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE976I01016": {
+  "name": "TATA Capital Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE756I01012": {
+  "name": "HDB Financial Services Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE149A01033": {
+  "name": "Cholamandalam Financial Holdings Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE575P01011": {
+  "name": "Star Health & Allied Insurance Co. Ltd.",
+  "sector": "Insurance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE346A01027": {
+  "name": "ICICI Prudential Asset Management Company Ltd.",
+  "sector": "Capital Markets",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE00F201020": {
+  "name": "Prudent Corporate Advisory Services Ltd.",
+  "sector": "Capital Markets",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE549H01021": {
+  "name": "Anand Rathi Share & Stock Brokers Ltd.",
+  "sector": "Capital Markets",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE218I01013": {
+  "name": "Canara Robeco Asset Management Company Ltd.",
+  "sector": "Capital Markets",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE288B01029": {
+  "name": "Deepak Nitrite Ltd.",
+  "sector": "Chemicals & Petrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE844O01030": {
+  "name": "Gujarat Energy Ltd.",
+  "sector": "Gas",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE398R01022": {
+  "name": "Syngene International Ltd.",
+  "sector": "Healthcare Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE1TUG01013": {
+  "name": "GSPL Transmission Ltd.",
+  "sector": "Gas",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE348B01021": {
+  "name": "Century Plyboards (India) Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE150B01039": {
+  "name": "Alkyl Amines Chemicals Ltd.",
+  "sector": "Chemicals & Petrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE810G01011": {
+  "name": "Shyam Metalics and Energy Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE118A01012": {
+  "name": "Bajaj Holdings & Investment Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE053F01010": {
+  "name": "Indian Railway Finance Corporation Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE010V01017": {
+  "name": "L&T Technology Services Ltd.",
+  "sector": "IT - Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE207E01023": {
+  "name": "Ram Ratna Wires Ltd.",
+  "sector": "Electrical Equipment",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE482A01020": {
+  "name": "CEAT Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE836A01035": {
+  "name": "Birlasoft Ltd.",
+  "sector": "IT - Software",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE704J01044": {
+  "name": "Vedanta Oil and Gas Ltd.",
+  "sector": "Oil",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE1CLE01013": {
+  "name": "Vedanta Iron and Steel Ltd.",
+  "sector": "Ferrous Metals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE682M01020": {
+  "name": "Jupiter Life Line Hospitals Ltd.",
+  "sector": "Healthcare Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE987B01026": {
+  "name": "Natco Pharma Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE274J01014": {
+  "name": "Oil India Ltd.",
+  "sector": "Oil",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE002S01010": {
+  "name": "Mahanagar Gas Ltd.",
+  "sector": "Gas",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE203G01027": {
+  "name": "Indraprastha Gas Ltd.",
+  "sector": "Gas",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE258A01024": {
+  "name": "BEML Ltd.",
+  "sector": "Agricultural, Commercial & Construction Vehicles",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE335Y01020": {
+  "name": "Indian Railway Catering & Tourism Corporation Ltd.",
+  "sector": "Leisure Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE1EQW01028": {
+  "name": "SS Retail Ltd.",
+  "sector": "Retailing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE673O01025": {
+  "name": "TBO Tek Ltd.",
+  "sector": "Leisure Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE08T701025": {
+  "name": "Rentomojo Ltd.",
+  "sector": "Commercial Services & Supplies",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE195J01029": {
+  "name": "PNC Infratech Ltd.",
+  "sector": "Construction",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE665J01013": {
+  "name": "V-Mart Retail Ltd.",
+  "sector": "Retailing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE158A01026": {
+  "name": "Hero MotoCorp Ltd.",
+  "sector": "Automobiles",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE761H01022": {
+  "name": "Page Industries Ltd.",
+  "sector": "Textiles & Apparels",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE00R701025": {
+  "name": "Dalmia Bharat Ltd.",
+  "sector": "Cement & Cement Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE070A01015": {
+  "name": "Shree Cement Ltd.",
+  "sector": "Cement & Cement Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE848E01016": {
+  "name": "NHPC Ltd.",
+  "sector": "Power",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE660A01013": {
+  "name": "Sundaram Finance Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE281B01032": {
+  "name": "Lloyds Metals And Energy Ltd.",
+  "sector": "Minerals & Mining",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE881D01027": {
+  "name": "Oracle Financial Services Software Ltd.",
+  "sector": "IT - Software",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE883A01011": {
+  "name": "MRF Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE016A01026": {
+  "name": "Dabur India Ltd.",
+  "sector": "Personal Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE220G01021": {
+  "name": "Jindal Stainless Ltd.",
+  "sector": "Ferrous Metals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE169A01031": {
+  "name": "Coromandel International Ltd.",
+  "sector": "Fertilizers & Agrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE151A01013": {
+  "name": "Tata Communications Ltd.",
+  "sector": "Telecom - Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE914M01019": {
+  "name": "Aster DM Quality Care Ltd.",
+  "sector": "Healthcare Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE774D01024": {
+  "name": "Mahindra & Mahindra Financial Services Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE726G01019": {
+  "name": "ICICI Life Insurance Ltd.",
+  "sector": "Insurance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE531E01026": {
+  "name": "Hindustan Copper Ltd.",
+  "sector": "Non - Ferrous Metals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE302A01020": {
+  "name": "Exide Industries Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE399L01023": {
+  "name": "Adani Total Gas Ltd.",
+  "sector": "Gas",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE463A01038": {
+  "name": "Berger Paints India Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE206F01022": {
+  "name": "Authum Investment & Infrastructure Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0BS701011": {
+  "name": "Premier Energies Ltd",
+  "sector": "Electrical Equipment",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE481Y01014": {
+  "name": "General Insurance Corporation of India",
+  "sector": "Insurance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE473A01011": {
+  "name": "Linde India Ltd.",
+  "sector": "Chemicals & Petrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE410P01011": {
+  "name": "Narayana Hrudayalaya Ltd.",
+  "sector": "Healthcare Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE474Q01031": {
+  "name": "Global Health Ltd.",
+  "sector": "Healthcare Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE704P01025": {
+  "name": "Cochin Shipyard Ltd.",
+  "sector": "Industrial Manufacturing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE171Z01026": {
+  "name": "Bharat Dynamics Ltd.",
+  "sector": "Aerospace & Defense",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE377Y01014": {
+  "name": "Bajaj Housing Finance Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE202E01016": {
+  "name": "Indian Renewable Energy Development Agency Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0ONG01011": {
+  "name": "NTPC Green Energy Ltd.",
+  "sector": "Power",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE672A01026": {
+  "name": "Tata Investment Corporation Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE260B01028": {
+  "name": "Godfrey Phillips India Ltd.",
+  "sector": "Cigarettes & Tobacco Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE565A01014": {
+  "name": "Indian Overseas Bank",
+  "sector": "Banks",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE188A01015": {
+  "name": "Fertilisers And Chemicals Travancore Ltd.",
+  "sector": "Fertilizers & Agrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE233A01035": {
+  "name": "Godrej Industries Ltd.",
+  "sector": "Diversified",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE548A01028": {
+  "name": "HFCL Ltd.",
+  "sector": "Telecom - Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE891D01026": {
+  "name": "Redington Ltd.",
+  "sector": "Commercial Services & Supplies",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE794A01010": {
+  "name": "Neuland Laboratories Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE017A01032": {
+  "name": "The Great Eastern Shipping Co. Ltd.",
+  "sector": "Transport Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE049B01025": {
+  "name": "Wockhardt Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE864I01014": {
+  "name": "MTAR technologies Ltd.",
+  "sector": "Electrical Equipment",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE208C01025": {
+  "name": "Aegis Logistics Ltd.",
+  "sector": "Gas",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE670A01012": {
+  "name": "Tata Elxsi Ltd.",
+  "sector": "IT - Software",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE530B01024": {
+  "name": "IIFL Finance Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE438A01022": {
+  "name": "Apollo Tyres Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE019C01026": {
+  "name": "Himadri Speciality Chemical Ltd.",
+  "sector": "Chemicals & Petrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE142M01025": {
+  "name": "Tata Technologies Ltd.",
+  "sector": "IT - Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE918Z01012": {
+  "name": "Kaynes Technology India Ltd.",
+  "sector": "Industrial Manufacturing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE092A01019": {
+  "name": "Tata Chemicals Ltd.",
+  "sector": "Chemicals & Petrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE885A01032": {
+  "name": "Amara Raja Energy & Mobility Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE520A01027": {
+  "name": "Zensar Technologies Ltd.",
+  "sector": "IT - Software",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE366I01010": {
+  "name": "VRL Logistics Ltd.",
+  "sector": "Transport Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE386C01029": {
+  "name": "Astra Microwave Products Ltd.",
+  "sector": "Aerospace & Defense",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0IX101010": {
+  "name": "Data Patterns (India) Ltd.",
+  "sector": "Aerospace & Defense",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE251B01027": {
+  "name": "Zen Technologies Ltd.",
+  "sector": "Aerospace & Defense",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE713T01028": {
+  "name": "Apollo Micro Systems Ltd.",
+  "sector": "Aerospace & Defense",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE382Z01011": {
+  "name": "Garden Reach Shipbuilders & Engineers Ltd.",
+  "sector": "Aerospace & Defense",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE933B01012": {
+  "name": "Sigma Advanced Systems Ltd.",
+  "sector": "Aerospace & Defense",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE045601023": {
+  "name": "Paras Defence And Space Technologies Ltd.",
+  "sector": "Aerospace & Defense",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE947N01017": {
+  "name": "Aequs Ltd.",
+  "sector": "Aerospace & Defense",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE555B01013": {
+  "name": "AXISCADES Technologies Ltd.",
+  "sector": "Aerospace & Defense",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE320B01020": {
+  "name": "Centum Electronics Ltd.",
+  "sector": "Aerospace & Defense",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE099Z01011": {
+  "name": "Mishra Dhatu Nigam Ltd.",
+  "sector": "Aerospace & Defense",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0U3I01011": {
+  "name": "Unimech Aerospace and Manufacturing Ltd.",
+  "sector": "Aerospace & Defense",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE821I01022": {
+  "name": "IRB Infrastructure Developers Ltd.",
+  "sector": "Construction",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE868B01028": {
+  "name": "NCC Ltd.",
+  "sector": "Construction",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE389H01022": {
+  "name": "KEC International Ltd.",
+  "sector": "Construction",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE486A01021": {
+  "name": "CESC Ltd.",
+  "sector": "Power",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE517F01014": {
+  "name": "Gujarat Pipavav Port Ltd.",
+  "sector": "Transport Infrastructure",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE811A01038": {
+  "name": "Kirloskar Pneumatic Co. Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE183A01024": {
+  "name": "Finolex Industries Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0NT901020": {
+  "name": "Netweb Technologies India Ltd.",
+  "sector": "IT - Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0BWX01014": {
+  "name": "Aether Industries Ltd.",
+  "sector": "Chemicals & Petrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE178A01016": {
+  "name": "Chennai Petroleum Corporation Ltd.",
+  "sector": "Petroleum Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE367G01038": {
+  "name": "Prime Focus Ltd.",
+  "sector": "Entertainment",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE172A01027": {
+  "name": "Castrol India Ltd.",
+  "sector": "Petroleum Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE292B01021": {
+  "name": "HBL Engineering Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE451A01017": {
+  "name": "Force Motors Ltd.",
+  "sector": "Automobiles",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE19RI01016": {
+  "name": "Tenneco Clean Air India Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE548C01032": {
+  "name": "Emami Ltd.",
+  "sector": "Personal Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE404A01024": {
+  "name": "Aditya Birla Sun Life Amc Ltd.",
+  "sector": "Capital Markets",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE903U01023": {
+  "name": "Signatureglobal (India) Ltd.",
+  "sector": "Realty",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE089C01029": {
+  "name": "Sterlite Technologies Ltd.",
+  "sector": "Telecom - Equipment & Accessories",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE509F01029": {
+  "name": "Cupid Ltd.",
+  "sector": "Personal Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE531F01023": {
+  "name": "Nuvama Wealth Management Ltd.",
+  "sector": "Capital Markets",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE683A01023": {
+  "name": "The South Indian Bank Ltd.",
+  "sector": "Banks",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE614B01018": {
+  "name": "The Karnataka Bank Ltd.",
+  "sector": "Banks",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE285A01027": {
+  "name": "Elgi Equipments Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE506V01022": {
+  "name": "Rubicon Research Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE191H01014": {
+  "name": "PVR Inox Ltd.",
+  "sector": "Entertainment",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE342J01019": {
+  "name": "ZF Commercial Vehicle Control Systems India Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE418L01047": {
+  "name": "Nazara Technologies Ltd.",
+  "sector": "Entertainment",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE668A01016": {
+  "name": "Tamilnad Mercantile Bank Ltd.",
+  "sector": "Banks",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE301O01023": {
+  "name": "National Securities Depository Ltd.",
+  "sector": "Capital Markets",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE290S01011": {
+  "name": "CarTrade Tech Ltd.",
+  "sector": "Retailing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE769A01020": {
+  "name": "Aarti Industries Ltd.",
+  "sector": "Chemicals & Petrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE217B01036": {
+  "name": "Kajaria Ceramics Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE699H01024": {
+  "name": "AWL Agri Business Ltd.",
+  "sector": "Agricultural Food & other Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE148I01020": {
+  "name": "Sammaan Capital Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0FS801015": {
+  "name": "Motherson Sumi Wiring India Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE180C01042": {
+  "name": "Capri Global Capital Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE235A01022": {
+  "name": "Finolex Cables Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE956G01038": {
+  "name": "VA Tech Wabag Ltd.",
+  "sector": "Other Utilities",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE228A01035": {
+  "name": "Usha Martin Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE532F01054": {
+  "name": "Edelweiss Financial Services Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE980O01024": {
+  "name": "Jyoti CNC Automation Ltd.",
+  "sector": "Industrial Manufacturing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0LXG01040": {
+  "name": "Ola Electric Mobility Ltd.",
+  "sector": "Automobiles",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE288A01013": {
+  "name": "Maharashtra Scooters Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE659A01023": {
+  "name": "Sudarshan Chemical Industries Ltd.",
+  "sector": "Chemicals & Petrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE02IJ01035": {
+  "name": "Azad Engineering Ltd.",
+  "sector": "Electrical Equipment",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE725A01030": {
+  "name": "Nava Ltd.",
+  "sector": "Power",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE785M01021": {
+  "name": "PC Jeweller Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0LCL01028": {
+  "name": "Avalon Technologies Ltd.",
+  "sector": "Electrical Equipment",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE093R01011": {
+  "name": "Lloyds Engineering Works Ltd.",
+  "sector": "Industrial Manufacturing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE510A01028": {
+  "name": "Engineers India Ltd.",
+  "sector": "Construction",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE399G01023": {
+  "name": "Ramkrishna Forgings Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE01IU01018": {
+  "name": "SKY Gold & Diamonds Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE477A01020": {
+  "name": "Can Fin Homes Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE750C01026": {
+  "name": "MARKSANS PHARMA Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE883F01010": {
+  "name": "Aadhar Housing Finance Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE839M01018": {
+  "name": "Schneider Electric Infrastructure Ltd.",
+  "sector": "Electrical Equipment",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE126A01031": {
+  "name": "E.I.D-Parry (India) Ltd.",
+  "sector": "Food Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE351F01018": {
+  "name": "Jaiprakash Power Ventures Ltd.",
+  "sector": "Power",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE961O01016": {
+  "name": "Rainbow Children's Medicare Ltd.",
+  "sector": "Healthcare Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE872H01027": {
+  "name": "Lumax Auto Technologies Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE063P01018": {
+  "name": "Equitas Small Finance Bank Ltd.",
+  "sector": "Banks",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE102B01014": {
+  "name": "Choice International Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE065X01017": {
+  "name": "Indegene Ltd.",
+  "sector": "Healthcare Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE424H01027": {
+  "name": "Sun TV Network Ltd.",
+  "sector": "Entertainment",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE703B01027": {
+  "name": "Ratnamani Metals & Tubes Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0UIZ01018": {
+  "name": "BlackBuck Ltd.",
+  "sector": "Transport Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE989C01038": {
+  "name": "Diamond Power Infrastructure Ltd.",
+  "sector": "Electrical Equipment",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE2J8701016": {
+  "name": "SKF India (Industrial) Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE205C01021": {
+  "name": "Polymedicure Ltd.",
+  "sector": "Healthcare Equipment & Supplies",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE085J01014": {
+  "name": "Thangamayil Jewellery Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE473B01035": {
+  "name": "Hatsun Agro Product Ltd.",
+  "sector": "Food Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE230A01023": {
+  "name": "EIH Ltd.",
+  "sector": "Leisure Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE970X01018": {
+  "name": "Lemon Tree Hotels Ltd.",
+  "sector": "Leisure Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE094J01016": {
+  "name": "UTI Asset Management Co. Ltd.",
+  "sector": "Capital Markets",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE291A01017": {
+  "name": "Garware Hi-Tech Films Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE085A01013": {
+  "name": "Chambal Fertilisers and Chemicals Ltd.",
+  "sector": "Fertilizers & Agrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE168A01041": {
+  "name": "The Jammu & Kashmir Bank Ltd.",
+  "sector": "Banks",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE614G01033": {
+  "name": "Reliance Power Ltd.",
+  "sector": "Power",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE818H01020": {
+  "name": "LT Foods Ltd.",
+  "sector": "Agricultural Food & other Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0AQ201015": {
+  "name": "Leela Palaces Hotels & Resorts Ltd.",
+  "sector": "Leisure Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE483A01010": {
+  "name": "Central Bank of India",
+  "sector": "Banks",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE959A01019": {
+  "name": "Privi Speciality Chemicals Ltd.",
+  "sector": "Chemicals & Petrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE825A01020": {
+  "name": "Vardhman Textiles Ltd.",
+  "sector": "Textiles & Apparels",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE621H01010": {
+  "name": "Religare Enterprises Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE371A01025": {
+  "name": "Graphite India Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE475E01026": {
+  "name": "Caplin Point Laboratories Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE177H01039": {
+  "name": "Godawari Power & Ispat Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0BY001018": {
+  "name": "Jubilant Ingrevia Ltd.",
+  "sector": "Chemicals & Petrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE752H01013": {
+  "name": "CARE Ratings Ltd.",
+  "sector": "Capital Markets",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE536H01010": {
+  "name": "CIE Automotive India Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE995S01015": {
+  "name": "Niva Bupa Health Insurance Company Ltd.",
+  "sector": "Insurance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE306R01017": {
+  "name": "Intellect Design Arena Ltd.",
+  "sector": "IT - Software",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE933S01016": {
+  "name": "Indiamart Intermesh Ltd.",
+  "sector": "Retailing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE07T201019": {
+  "name": "Restaurant Brands Asia Ltd.",
+  "sector": "Leisure Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0LRU01027": {
+  "name": "Aarti Pharmalabs Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE01TY01017": {
+  "name": "Canara HSBC Life Insurance Co.Ltd.",
+  "sector": "Insurance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE768C01028": {
+  "name": "Zydus Wellness Ltd.",
+  "sector": "Food Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE901L01018": {
+  "name": "Alembic Pharmaceuticals Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE008A01015": {
+  "name": "IDBI Bank Ltd.",
+  "sector": "Banks",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE483C01032": {
+  "name": "Tanla Platforms Ltd.",
+  "sector": "IT - Software",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE03Q201024": {
+  "name": "Alivus Life Sciences Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE338H01029": {
+  "name": "Concord Biotech Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE113A01013": {
+  "name": "Gujarat Narmada Valley Fertilizers & Chemicals Ltd.",
+  "sector": "Chemicals & Petrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE385F01024": {
+  "name": "SG Mart Ltd.",
+  "sector": "Metals & Minerals Trading",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE024L01027": {
+  "name": "Gravita India Ltd.",
+  "sector": "Minerals & Mining",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE940H01022": {
+  "name": "Pearl Global Industries Ltd.",
+  "sector": "Textiles & Apparels",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE216P01012": {
+  "name": "Aavas Financiers Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE541A01023": {
+  "name": "GMM Pfaudler Ltd.",
+  "sector": "Industrial Manufacturing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE109A01011": {
+  "name": "Shipping Corporation of India Ltd.",
+  "sector": "Transport Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE780C01023": {
+  "name": "JM Financial Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE489L01022": {
+  "name": "IIFL Capital Services\n Ltd.",
+  "sector": "Capital Markets",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE824G01012": {
+  "name": "Jsw Holdings Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE804L01022": {
+  "name": "Medplus Health Services Ltd.",
+  "sector": "Retailing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE663A01033": {
+  "name": "Supreme Petrochem Ltd.",
+  "sector": "Chemicals & Petrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE508G01029": {
+  "name": "Time Technoplast Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE285K01026": {
+  "name": "Techno Electric & Engineering Company Ltd.",
+  "sector": "Construction",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE176A01028": {
+  "name": "Bata India Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE731H01025": {
+  "name": "Action Construction Equipment Ltd.",
+  "sector": "Agricultural, Commercial & Construction Vehicles",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE203A01020": {
+  "name": "AstraZeneca Pharma India Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE385C01021": {
+  "name": "Sarda Energy & Minerals Ltd.",
+  "sector": "Ferrous Metals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0JO301016": {
+  "name": "Yatharth Hospital & Trauma Care Ser Ltd.",
+  "sector": "Healthcare Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0Q9301021": {
+  "name": "International Gemological Institute Ltd.",
+  "sector": "Commercial Services & Supplies",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE470Y01017": {
+  "name": "The New India Assurance Co. Ltd.",
+  "sector": "Insurance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE676A01027": {
+  "name": "Black Box Ltd.",
+  "sector": "IT - Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE867C01010": {
+  "name": "Asm Technologies Ltd.",
+  "sector": "IT - Software",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE274F01020": {
+  "name": "Westlife Foodworld Ltd.",
+  "sector": "Leisure Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE083A01026": {
+  "name": "Morepen Laboratories Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE979A01025": {
+  "name": "SAREGAMA India Ltd.",
+  "sector": "Entertainment",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE260D01016": {
+  "name": "Olectra Greentech Ltd.",
+  "sector": "Automobiles",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE420C01059": {
+  "name": "Paisalo Digital Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE854B01010": {
+  "name": "Jayaswal Neco Industries Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE552Z01027": {
+  "name": "Allied Blenders And Distillers Ltd.",
+  "sector": "Beverages",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE943P01029": {
+  "name": "Dr. Agarwals Health Care Ltd.",
+  "sector": "Healthcare Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE549A01026": {
+  "name": "Hindustan Construction Company Ltd.",
+  "sector": "Construction",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE002L01015": {
+  "name": "SJVN Ltd.",
+  "sector": "Power",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE301A01014": {
+  "name": "Raymond Ltd.",
+  "sector": "Industrial Manufacturing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE573A01042": {
+  "name": "JK Tyre & Industries Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE855B01025": {
+  "name": "Rain Industries Ltd.",
+  "sector": "Chemicals & Petrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE205B01031": {
+  "name": "Elecon Engineering Company Ltd.",
+  "sector": "Electrical Equipment",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE039A01010": {
+  "name": "IFCI Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE531A01024": {
+  "name": "Kansai Nerolac Paints Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE716B01029": {
+  "name": "Tips Music Ltd.",
+  "sector": "Entertainment",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE399C01030": {
+  "name": "Suprajit Engineering Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE639B01023": {
+  "name": "Tanfac Industries Ltd.",
+  "sector": "Chemicals & Petrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE483B01026": {
+  "name": "Indo Count Industries Ltd.",
+  "sector": "Textiles & Apparels",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE227W01023": {
+  "name": "Clean Science & Technology Ltd.",
+  "sector": "Chemicals & Petrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE04TZ01018": {
+  "name": "Ethos Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE373A01013": {
+  "name": "BASF India Ltd.",
+  "sector": "Chemicals & Petrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE02RE01045": {
+  "name": "Brainbees Solutions Ltd.",
+  "sector": "Retailing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE131A01031": {
+  "name": "Gujarat Mineral Development Corporation Ltd.",
+  "sector": "Minerals & Mining",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE807F01027": {
+  "name": "Viyash Scientific Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE499A01024": {
+  "name": "DCM Shriram Ltd.",
+  "sector": "Diversified",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE080I01025": {
+  "name": "Lloyds Enterprises Ltd.",
+  "sector": "Metals & Minerals Trading",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE337A01034": {
+  "name": "LG Balakrishnan & Bros Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE640A01023": {
+  "name": "SKF India Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE999A01023": {
+  "name": "KSB Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE276A01018": {
+  "name": "Garware Technical Fibres Ltd.",
+  "sector": "Textiles & Apparels",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE884B01025": {
+  "name": "Kirloskar Ferrous Industries Ltd.",
+  "sector": "Ferrous Metals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE877F01012": {
+  "name": "PTC India Ltd.",
+  "sector": "Power",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE386A01023": {
+  "name": "Vesuvius India Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE010J01012": {
+  "name": "Tejas Networks Ltd.",
+  "sector": "Telecom - Equipment & Accessories",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE763I01026": {
+  "name": "Transformers & Rectifiers (India) Ltd.",
+  "sector": "Electrical Equipment",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE118D01016": {
+  "name": "Nuvoco Vistas Corporation Ltd.",
+  "sector": "Cement & Cement Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0INX01018": {
+  "name": "Aegis Vopak Terminals Ltd.",
+  "sector": "Oil",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE075I01017": {
+  "name": "Healthcare Global Enterprises Ltd.",
+  "sector": "Healthcare Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE686Y01026": {
+  "name": "Fine Organic Industries Ltd.",
+  "sector": "Chemicals & Petrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE962Y01021": {
+  "name": "Ircon International Ltd.",
+  "sector": "Construction",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE1C6T01020": {
+  "name": "Emmvee Photovoltaic Power Ltd.",
+  "sector": "Electrical Equipment",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE665A01038": {
+  "name": "Swan Corp Ltd.",
+  "sector": "Chemicals & Petrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0CJD01029": {
+  "name": "Knowledge Marine & Engineering Work Ltd.",
+  "sector": "Engineering Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE625G01013": {
+  "name": "Welspun Enterprises Ltd.",
+  "sector": "Construction",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE813A01018": {
+  "name": "Mahindra Lifespace Developers Ltd.",
+  "sector": "Realty",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0HV901016": {
+  "name": "Le Travenues Technology Ltd.",
+  "sector": "Leisure Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0Q3J01015": {
+  "name": "KRN Heat Exchanger and Refrigeration Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE103A01014": {
+  "name": "Mangalore Refinery and Petrochemicals Ltd.",
+  "sector": "Petroleum Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE665L01035": {
+  "name": "Varroc Engineering Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE955V01021": {
+  "name": "Arvind Fashions Ltd.",
+  "sector": "Retailing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE786A01032": {
+  "name": "JK Lakshmi Cement Ltd.",
+  "sector": "Cement & Cement Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE255A01020": {
+  "name": "EPL Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE429E01023": {
+  "name": "Safari Industries (India) Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE026A01025": {
+  "name": "Gujarat State Fertilizers & Chemicals Ltd.",
+  "sector": "Fertilizers & Agrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE177F01017": {
+  "name": "Kovai Medical Center and Hospital Ltd..",
+  "sector": "Healthcare Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE064A01026": {
+  "name": "Timex Group India Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE372C01037": {
+  "name": "Precision Wires India Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE619B01017": {
+  "name": "Newgen Software Technologies Ltd.",
+  "sector": "IT - Software",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE069I01010": {
+  "name": "Embassy Developments Ltd.",
+  "sector": "Realty",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE570A01022": {
+  "name": "ION Exchange (India) Ltd.",
+  "sector": "Other Utilities",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0SII01026": {
+  "name": "Quality Power Electrical Equipments Ltd.",
+  "sector": "Electrical Equipment",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE922K01024": {
+  "name": "India Shelter Finance Corporation Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE491J01022": {
+  "name": "ASK Automotive Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE739E01017": {
+  "name": "Cera Sanitaryware Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE933K01021": {
+  "name": "Bajaj Consumer Care Ltd.",
+  "sector": "Personal Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE789E01012": {
+  "name": "Jk Paper Ltd.",
+  "sector": "Paper, Forest & Jute Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE03EI01018": {
+  "name": "Max Estates Ltd.",
+  "sector": "Realty",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE001B01026": {
+  "name": "KRBL Ltd.",
+  "sector": "Agricultural Food & other Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0CU601026": {
+  "name": "Gmr Power & Urban Infra Ltd.",
+  "sector": "Power",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE542W01025": {
+  "name": "Kpi Green Energy Ltd.",
+  "sector": "Power",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE233B01017": {
+  "name": "Blue Dart Express Ltd.",
+  "sector": "Transport Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE539A01019": {
+  "name": "GHCL Ltd.",
+  "sector": "Chemicals & Petrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE679A01013": {
+  "name": "CSB Bank Ltd.",
+  "sector": "Banks",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE945H01021": {
+  "name": "V2 Retail Ltd.",
+  "sector": "Retailing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE871C01038": {
+  "name": "Avanti Feeds Ltd.",
+  "sector": "Food Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE064C01022": {
+  "name": "Trident Ltd.",
+  "sector": "Textiles & Apparels",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE953L01027": {
+  "name": "Jana Small Finance Bank Ltd.",
+  "sector": "Banks",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE544R01021": {
+  "name": "Greenlam Industries Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE473D01015": {
+  "name": "Kingfa Science & Technology India Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE011K01018": {
+  "name": "Tega Industries Ltd.",
+  "sector": "Industrial Manufacturing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE213C01025": {
+  "name": "Banco Products (I) Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE320J01015": {
+  "name": "Rites Ltd.",
+  "sector": "Construction",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE419U01012": {
+  "name": "Happiest Minds Technologies Ltd.",
+  "sector": "IT - Software",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE947A01014": {
+  "name": "Sunflag Iron & Steel Company Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE09XN01023": {
+  "name": "Akums Drugs & Pharmaceuticals Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE153T01027": {
+  "name": "BLS International Services Ltd.",
+  "sector": "Leisure Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE136S01016": {
+  "name": "Neogen Chemicals Ltd.",
+  "sector": "Chemicals & Petrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE691A01018": {
+  "name": "UCO Bank",
+  "sector": "Banks",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE209L01016": {
+  "name": "Jupiter Wagons Ltd.",
+  "sector": "Industrial Manufacturing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE128X01021": {
+  "name": "Archean Chemical Industries Ltd.",
+  "sector": "Chemicals & Petrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE349A01021": {
+  "name": "NRB Bearings Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE850D01014": {
+  "name": "Godrej Agrovet Ltd.",
+  "sector": "Food Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE858B01029": {
+  "name": "ISGEC Heavy Engineering Ltd.",
+  "sector": "Construction",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE411F01010": {
+  "name": "Kama Holdings Ltd.",
+  "sector": "Diversified",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE111B01023": {
+  "name": "63 Moons Technologies Ltd.",
+  "sector": "IT - Software",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE294B01019": {
+  "name": "SML Mahindra Ltd.",
+  "sector": "Agricultural, Commercial & Construction Vehicles",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE010601016": {
+  "name": "Entero Healthcare Solutions Ltd.",
+  "sector": "Retailing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE647O01011": {
+  "name": "Aditya Birla Fashion and Retail Ltd.",
+  "sector": "Retailing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE039C01032": {
+  "name": "Jamna Auto Industries Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE291D01011": {
+  "name": "KDDL Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE976A01021": {
+  "name": "West Coast Paper Mills Ltd.",
+  "sector": "Paper, Forest & Jute Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE021O01019": {
+  "name": "Dodla Dairy Ltd.",
+  "sector": "Food Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE668F01031": {
+  "name": "Jyothy Labs Ltd.",
+  "sector": "Household Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE050A01025": {
+  "name": "The Bombay Burmah Trading Corporation Ltd.",
+  "sector": "Food Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE340A01012": {
+  "name": "Birla Corporation Ltd.",
+  "sector": "Cement & Cement Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE917M01012": {
+  "name": "Dilip Buildcon Ltd.",
+  "sector": "Construction",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE011E01029": {
+  "name": "Balu Forge Industries Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE428V01029": {
+  "name": "Nephrocare Health Services Ltd.",
+  "sector": "Healthcare Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE254N01026": {
+  "name": "Hindustan Foods Ltd.",
+  "sector": "Diversified FMCG",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE383A01012": {
+  "name": "The India Cements Ltd.",
+  "sector": "Cement & Cement Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE600K01018": {
+  "name": "Galaxy Surfactants Ltd.",
+  "sector": "Chemicals & Petrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE09VQ01012": {
+  "name": "Indigo Paints Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE07RO01027": {
+  "name": "Supriya Lifescience Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE916U01025": {
+  "name": "Sheela Foam Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE415I01015": {
+  "name": "Kiri Industries Ltd.",
+  "sector": "Chemicals & Petrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE688A01022": {
+  "name": "Transport Corporation of India Ltd.",
+  "sector": "Transport Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE271B01025": {
+  "name": "Maharashtra Seamless Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE645S01024": {
+  "name": "Rolex Rings Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE908D01010": {
+  "name": "Shakti Pumps (India) Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE045J01034": {
+  "name": "Fineotex Chemical Ltd.",
+  "sector": "Chemicals & Petrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE007N01010": {
+  "name": "Fedbank Financial Services Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE621L01012": {
+  "name": "Texmaco Rail & Engineering Ltd.",
+  "sector": "Industrial Manufacturing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE131B01039": {
+  "name": "Relaxo Footwears Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE02YR01019": {
+  "name": "Electronics Mart India Ltd.",
+  "sector": "Retailing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE149K01016": {
+  "name": "Sandur Manganese & Iron Ores Ltd.",
+  "sector": "Ferrous Metals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0V9Q01010": {
+  "name": "Sri Lotus Developers & Realty Ltd.",
+  "sector": "Realty",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE317F01035": {
+  "name": "NESCO Ltd.",
+  "sector": "Commercial Services & Supplies",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE127I01024": {
+  "name": "Goodluck India Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE690A01028": {
+  "name": "TTK Prestige Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE224A01026": {
+  "name": "Greaves Cotton Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE054A01027": {
+  "name": "VIP Industries Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE545A01024": {
+  "name": "HEG Advanced Materials Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE349Y01013": {
+  "name": "Ideaforge Technology Ltd.",
+  "sector": "Aerospace & Defense",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0KBH01020": {
+  "name": "Blue Jet Healthcare Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE855C01023": {
+  "name": "Websol Energy System Ltd.",
+  "sector": "Electrical Equipment",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE091G01026": {
+  "name": "Jai Balaji Industries Ltd.",
+  "sector": "Ferrous Metals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE485C01029": {
+  "name": "IOL Chemicals and Pharmaceuticals Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE615P01015": {
+  "name": "Quess Corp Ltd.",
+  "sector": "Commercial Services & Supplies",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE802C01033": {
+  "name": "Steel Strips Wheels Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE256C01024": {
+  "name": "Triveni Engineering & Industries Ltd.",
+  "sector": "Agricultural Food & other Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE495B01038": {
+  "name": "Suven Life Sciences Ltd.",
+  "sector": "Healthcare Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE036B01030": {
+  "name": "Gujarat Ambuja Exports Ltd.",
+  "sector": "Agricultural Food & other Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0DD101019": {
+  "name": "Railtel Corporation of India Ltd.",
+  "sector": "Telecom - Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE086A01029": {
+  "name": "Electrosteel Castings Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE737H01014": {
+  "name": "FIEM Industries Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE18JU01028": {
+  "name": "GNG Electronics Ltd.",
+  "sector": "IT - Hardware",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE927D01051": {
+  "name": "JBM Auto Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE350C01017": {
+  "name": "Optiemus Infracom Ltd.",
+  "sector": "Telecom - Equipment & Accessories",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0YD401026": {
+  "name": "Jain Resource Recycling Ltd.",
+  "sector": "Diversified Metals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0E7301029": {
+  "name": "Wakefit Innovations Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE717A01029": {
+  "name": "Kennametal India Ltd.",
+  "sector": "Industrial Manufacturing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE258B01022": {
+  "name": "FDC Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE666D01022": {
+  "name": "Borosil Renewables Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE132H01018": {
+  "name": "Aurionpro Solutions Ltd.",
+  "sector": "IT - Software",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE201P01022": {
+  "name": "G R Infra projects Ltd.",
+  "sector": "Construction",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0JA001018": {
+  "name": "Venus Pipes And Tubes Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE111Q01021": {
+  "name": "PDS Ltd.",
+  "sector": "Textiles & Apparels",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE910A01012": {
+  "name": "Nirlon Ltd.",
+  "sector": "Commercial Services & Supplies",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE050E01027": {
+  "name": "Balaji Amines Ltd.",
+  "sector": "Chemicals & Petrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE464A01036": {
+  "name": "Bharat Bijlee Ltd.",
+  "sector": "Electrical Equipment",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE189B01011": {
+  "name": "Styrenix Performance Materials Ltd.",
+  "sector": "Chemicals & Petrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE299N01021": {
+  "name": "Waaree Renewable Technologies Ltd.",
+  "sector": "Electrical Equipment",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE277A01016": {
+  "name": "Swaraj Engines Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE517B01013": {
+  "name": "Tata Teleservices (Maharastra) Ltd.",
+  "sector": "Telecom - Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE516A01017": {
+  "name": "Uflex Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE510W01014": {
+  "name": "Inox Green Energy Services Ltd.",
+  "sector": "Commercial Services & Supplies",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE399K01017": {
+  "name": "Rattanindia Power Ltd.",
+  "sector": "Power",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE00M201021": {
+  "name": "Sterling and Wilson Renewable Energy Ltd.",
+  "sector": "Construction",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE025B01025": {
+  "name": "Goldiam International Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE602W01027": {
+  "name": "Senco Gold Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE439E01022": {
+  "name": "Skipper Ltd.",
+  "sector": "Electrical Equipment",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE078V01014": {
+  "name": "Vikram Solar Ltd.",
+  "sector": "Electrical Equipment",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE232I01014": {
+  "name": "Sun Pharma Advanced Research Company Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE919H01018": {
+  "name": "Indian Metals & Ferro Alloys Ltd.",
+  "sector": "Ferrous Metals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE989A01032": {
+  "name": "Sanghvi Movers Ltd.",
+  "sector": "Commercial Services & Supplies",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE454P01035": {
+  "name": "Transrail Lighting Ltd.",
+  "sector": "Electrical Equipment",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE306A01021": {
+  "name": "Bajaj Hindusthan Sugar Ltd.",
+  "sector": "Agricultural Food & other Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE597I01028": {
+  "name": "Sharda Motor Industries Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE576I01022": {
+  "name": "J.Kumar Infraprojects Ltd.",
+  "sector": "Construction",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE415A01038": {
+  "name": "AGI Greenpac Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE280B01018": {
+  "name": "Elantas Beck India Ltd.",
+  "sector": "Chemicals & Petrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE766P01016": {
+  "name": "Mahindra Logistics Ltd.",
+  "sector": "Transport Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE278Y01022": {
+  "name": "Campus Activewear Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE297H01019": {
+  "name": "Gallantt Ispat Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE119201023": {
+  "name": "Park Medi World Ltd.",
+  "sector": "Healthcare Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE314T01033": {
+  "name": "Gokul Agro Resources Ltd.",
+  "sector": "Agricultural Food & other Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE221J01015": {
+  "name": "Sharda Cropchem Ltd.",
+  "sector": "Fertilizers & Agrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE335A01020": {
+  "name": "Surya Roshni Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE460C01014": {
+  "name": "Ganesh Housing Ltd.",
+  "sector": "Realty",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0Z4F01028": {
+  "name": "Atlanta Electricals Ltd.",
+  "sector": "Electrical Equipment",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE883N01014": {
+  "name": "Parag Milk Foods Ltd.",
+  "sector": "Food Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE978A01027": {
+  "name": "Heritage Foods Ltd.",
+  "sector": "Food Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE613A01020": {
+  "name": "Rallis India Ltd.",
+  "sector": "Fertilizers & Agrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE635Q01029": {
+  "name": "Gulf Oil Lubricants India Ltd.",
+  "sector": "Petroleum Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE421C01016": {
+  "name": "TVS Srichakra Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0DUT01020": {
+  "name": "Innova Captab Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE229H01012": {
+  "name": "Nitin Spinners Ltd.",
+  "sector": "Textiles & Apparels",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE767A01016": {
+  "name": "Aarti Drugs Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE949H01023": {
+  "name": "Man Infraconstruction Ltd.",
+  "sector": "Realty",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0LXT01019": {
+  "name": "Redtape Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE490G01020": {
+  "name": "MOIL Ltd.",
+  "sector": "Minerals & Mining",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE845D01014": {
+  "name": "Ganesha Ecosphere Ltd.",
+  "sector": "Textiles & Apparels",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE231F01020": {
+  "name": "Sasken Technologies Ltd.",
+  "sector": "IT - Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE870H01013": {
+  "name": "Network18 Media & Investments Ltd.",
+  "sector": "Entertainment",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE345A01011": {
+  "name": "Hindustan Oil Exploration Co. Ltd.",
+  "sector": "Oil",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE805D01034": {
+  "name": "Sunteck Realty Ltd.",
+  "sector": "Realty",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE163A01018": {
+  "name": "NOCIL Ltd.",
+  "sector": "Chemicals & Petrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0BV301023": {
+  "name": "C.E.Info Systems Ltd.",
+  "sector": "IT - Software",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0LMW01024": {
+  "name": "Cello World Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE294Z01018": {
+  "name": "The Anup Engineering Ltd.",
+  "sector": "Industrial Manufacturing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE175A01038": {
+  "name": "Jain Irrigation Systems Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE244B01030": {
+  "name": "Patel Engineering Ltd.",
+  "sector": "Construction",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE764D01017": {
+  "name": "V.S.T Tillers Tractors Ltd.",
+  "sector": "Agricultural, Commercial & Construction Vehicles",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE482D01024": {
+  "name": "Carysil Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0NAZ01010": {
+  "name": "Smartworks Coworking Spaces Ltd.",
+  "sector": "Commercial Services & Supplies",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE285J01028": {
+  "name": "SIS Ltd.",
+  "sector": "Other Consumer Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE025R01021": {
+  "name": "Artemis Medicare Services Ltd.",
+  "sector": "Healthcare Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE391J01032": {
+  "name": "JTL Industries Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE12UR01024": {
+  "name": "Fujiyama Power Systems Ltd.",
+  "sector": "Electrical Equipment",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE498B01024": {
+  "name": "Shoppers Stop Ltd.",
+  "sector": "Retailing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE634I01029": {
+  "name": "KNR Constructions Ltd.",
+  "sector": "Construction",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE365B01017": {
+  "name": "Datamatics Global Services Ltd.",
+  "sector": "IT - Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE953R01016": {
+  "name": "P N Gadgil Jewellers Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE546C01010": {
+  "name": "Piccadily Agro Industries Ltd.",
+  "sector": "Beverages",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE079J01017": {
+  "name": "Gateway Distriparks Ltd.",
+  "sector": "Transport Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE599M01018": {
+  "name": "Just Dial Ltd.",
+  "sector": "Retailing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE618R01015": {
+  "name": "SG Finserve Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE435G01025": {
+  "name": "Dhanuka Agritech Ltd.",
+  "sector": "Fertilizers & Agrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE460H01021": {
+  "name": "Star Cement Ltd.",
+  "sector": "Cement & Cement Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE633B01018": {
+  "name": "Polyplex Corporation Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE087H01022": {
+  "name": "Shree Renuka Sugars Ltd.",
+  "sector": "Agricultural Food & other Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE342G01023": {
+  "name": "NIIT Learning Systems Ltd.",
+  "sector": "Other Consumer Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE255X01014": {
+  "name": "MSTC Ltd.",
+  "sector": "Commercial Services & Supplies",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE024F01011": {
+  "name": "Shilchar Technologies Ltd.",
+  "sector": "Electrical Equipment",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE455I01029": {
+  "name": "Kaveri Seed Company Ltd.",
+  "sector": "Agricultural Food & other Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE488A01050": {
+  "name": "Chemplast Sanmar Ltd.",
+  "sector": "Chemicals & Petrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE816B01035": {
+  "name": "Filatex India Ltd.",
+  "sector": "Textiles & Apparels",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE395N01027": {
+  "name": "TVS Supply Chain Solutions Ltd.",
+  "sector": "Transport Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE781S01027": {
+  "name": "Ventive Hospitality Ltd.",
+  "sector": "Leisure Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE681B01017": {
+  "name": "Indraprastha Medical Corp Ltd.",
+  "sector": "Healthcare Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE035D01020": {
+  "name": "Savita Oil Technologies Ltd.",
+  "sector": "Petroleum Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE932X01026": {
+  "name": "Share India Securities Ltd.",
+  "sector": "Capital Markets",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE105J01010": {
+  "name": "RPG Life Sciences Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE545H01011": {
+  "name": "Technocraft Industries India Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE027A01015": {
+  "name": "Rashtriya Chemicals and Fertilizers Ltd.",
+  "sector": "Fertilizers & Agrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE576O01020": {
+  "name": "Laxmi Organic Industries Ltd.",
+  "sector": "Chemicals & Petrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE274Y01021": {
+  "name": "Ajax Engineering Ltd.",
+  "sector": "Agricultural, Commercial & Construction Vehicles",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE1B6101010": {
+  "name": "Shreeji Shipping Global Ltd.",
+  "sector": "Transport Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE191A01027": {
+  "name": "Orchid Pharma Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE056I01025": {
+  "name": "Refex Industries Ltd.",
+  "sector": "Other Utilities",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE442H01029": {
+  "name": "Ashoka Buildcon Ltd.",
+  "sector": "Construction",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE907A01026": {
+  "name": "Kalyani Steels Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE128A01029": {
+  "name": "Eveready Industries India Ltd.",
+  "sector": "Household Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE488B01017": {
+  "name": "Tasty Bite Eatables Ltd.",
+  "sector": "Food Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE071N01016": {
+  "name": "Epigral Ltd.",
+  "sector": "Chemicals & Petrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE893J01029": {
+  "name": "Mold-Tek Packaging Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE837H01020": {
+  "name": "Advanced Enzyme Technologies Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE365D01021": {
+  "name": "Ashiana Housing Ltd.",
+  "sector": "Realty",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE998I01010": {
+  "name": "Mahindra Holidays & Resorts India Ltd.",
+  "sector": "Leisure Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE066O01014": {
+  "name": "Wonderla Holidays Ltd.",
+  "sector": "Leisure Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE040D01038": {
+  "name": "Mayur Uniquoters Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE943D01017": {
+  "name": "MPS Ltd.",
+  "sector": "Printing & Publication",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0AG901020": {
+  "name": "Ceigall India Ltd.",
+  "sector": "Construction",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE287B01021": {
+  "name": "Subros Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE735W01017": {
+  "name": "Utkarsh Small Finance Bank Ltd.",
+  "sector": "Banks",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE02ID01020": {
+  "name": "Raymond Lifestyle Ltd.",
+  "sector": "Textiles & Apparels",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE108V01019": {
+  "name": "Awfis Space Solutions Ltd.",
+  "sector": "Commercial Services & Supplies",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE010A01011": {
+  "name": "Prism Johnson Ltd.",
+  "sector": "Cement & Cement Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE689W01016": {
+  "name": "Prince Pipes and Fittings Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE614A01028": {
+  "name": "Ramco Industries Ltd.",
+  "sector": "Other Construction Materials",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0B9K01033": {
+  "name": "Bansal Wire Industries Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE02PY01013": {
+  "name": "Borosil Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE710A01016": {
+  "name": "VST Industries Ltd.",
+  "sector": "Cigarettes & Tobacco Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE985S01024": {
+  "name": "TeamLease Services Ltd.",
+  "sector": "Commercial Services & Supplies",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0EK901012": {
+  "name": "Tarc Ltd.",
+  "sector": "Realty",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE603A01013": {
+  "name": "Prakash Industries Ltd.",
+  "sector": "Ferrous Metals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE270I01022": {
+  "name": "Vishnu Chemicals Ltd.",
+  "sector": "Chemicals & Petrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE765D01022": {
+  "name": "Wpil Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE266D01021": {
+  "name": "Grauer & Weil India Ltd.",
+  "sector": "Chemicals & Petrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE07K301024": {
+  "name": "Zaggle Prepaid Ocean Services Ltd.",
+  "sector": "IT - Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE244O01017": {
+  "name": "Uniparts India Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE094I01018": {
+  "name": "Kolte - Patil Developers Ltd.",
+  "sector": "Realty",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE234A01025": {
+  "name": "Novartis India Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE753U01022": {
+  "name": "Divgi Torqtransfer Systems Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE782A01015": {
+  "name": "Bosch Home Comfort India Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE193E01025": {
+  "name": "Bajaj Electricals Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE742B01025": {
+  "name": "Gufic Biosciences Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE559A01017": {
+  "name": "IFB Industries Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE393P01035": {
+  "name": "Prataap Snacks Ltd.",
+  "sector": "Food Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0GK401011": {
+  "name": "Tatva Chintan Pharma Chem Ltd.",
+  "sector": "Chemicals & Petrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0Q3R01026": {
+  "name": "Sundaram Clayton Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE186A01019": {
+  "name": "Gujarat Alkalies and Chemicals Ltd.",
+  "sector": "Chemicals & Petrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE263M01029": {
+  "name": "Keystone Realtors Ltd.",
+  "sector": "Realty",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE615I01010": {
+  "name": "Globus Spirits Ltd.",
+  "sector": "Beverages",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE497B01018": {
+  "name": "Seamec Ltd.",
+  "sector": "Transport Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE060A01024": {
+  "name": "Navneet Education Ltd.",
+  "sector": "Household Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE007B01023": {
+  "name": "Geojit Financial Services Ltd.",
+  "sector": "Capital Markets",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE270A01029": {
+  "name": "Alok Industries Ltd.",
+  "sector": "Textiles & Apparels",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE922A01025": {
+  "name": "Bhansali Engineering Polymers Ltd.",
+  "sector": "Chemicals & Petrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE164A01016": {
+  "name": "Balmer Lawrie & Company Ltd.",
+  "sector": "Diversified",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE694D01016": {
+  "name": "Vadilal Industries Ltd.",
+  "sector": "Food Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE979B01015": {
+  "name": "Hawkins Cookers Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE519A01011": {
+  "name": "Foseco India Ltd.",
+  "sector": "Chemicals & Petrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE631A01022": {
+  "name": "Shanthi Gears Ltd.",
+  "sector": "Industrial Manufacturing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE116A01032": {
+  "name": "Apcotex Industries Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE877D01025": {
+  "name": "Kanohar Electricals Limited",
+  "sector": "Electrical Equipment",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE00GO01025": {
+  "name": "Leap India Limited",
+  "sector": "Commercial Services & Supplies",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0WO601020": {
+  "name": "Laxmi Dental Limited",
+  "sector": "Healthcare Equipment & Supplies",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE2WKE01011": {
+  "name": "Triveni Power Transmission Limited",
+  "sector": "Industrial Manufacturing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0Y9J01020": {
+  "name": "HEG Graphite Ltd **",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE644Q01039": {
+  "name": "Glass Wall Systems India Limited",
+  "sector": "Other Construction Materials",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0HLU01028": {
+  "name": "One MobiKwik Systems Limited",
+  "sector": "Financial Technology (Fintech)",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE488V01015": {
+  "name": "PSP Projects Limited",
+  "sector": "Construction",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE012G01022": {
+  "name": "Hero Motors Ltd",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE17QZ01016": {
+  "name": "Knack Packaging Limited",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0JPD01013": {
+  "name": "Sanathan Textiles Limited",
+  "sector": "Textiles & Apparels",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE124E01038": {
+  "name": "Steelcast Ltd",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE942C01045": {
+  "name": "Gujarat Themis Biosyn Limited",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE17IR01028": {
+  "name": "Laser Power And Infra Limited",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE039O01029": {
+  "name": "Jash Engineering Limited",
+  "sector": "Industrial Manufacturing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0PKN01028": {
+  "name": "SFC Environmental Technologies Limited",
+  "sector": "Other Utilities",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE542F01020": {
+  "name": "Swan Defence And Heavy Industries Ltd",
+  "sector": "Industrial Manufacturing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE921L01032": {
+  "name": "Powerica Limited",
+  "sector": "Electrical Equipment",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE12F801023": {
+  "name": "Onemi Technology Solutions Limited",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0OC301013": {
+  "name": "Turtlemint Fintech Solutions Limited",
+  "sector": "Financial Technology (Fintech)",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE445C01015": {
+  "name": "Xpro India Limited",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE015C01016": {
+  "name": "Tinna Rubber and Infrastructure Limited",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE934S01014": {
+  "name": "GNA Axles Limited",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0OJW01016": {
+  "name": "Rossell Techsys Limited",
+  "sector": "Aerospace & Defense",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0XNF01022": {
+  "name": "Ardee Industries Limited",
+  "sector": "Diversified Metals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0PX301025": {
+  "name": "Skyways Air Services Ltd",
+  "sector": "Transport Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE497S01012": {
+  "name": "Godavari Biorefineries Limited",
+  "sector": "Diversified FMCG",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE14UN01029": {
+  "name": "Vidya Wires Limited",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0K9O01026": {
+  "name": "Lalithaa Jewellery Mart Ltd",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE00WV01027": {
+  "name": "CMR Green Technologies Limited",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE185Q01025": {
+  "name": "Lumino Industries Limited",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE501X01029": {
+  "name": "Aye Finance Limited",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE241U01028": {
+  "name": "Manipal Payment Identity Solutions Ltd",
+  "sector": "Financial Technology (Fintech)",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE162A01010": {
+  "name": "Gujarat Industries Power Company Limited",
+  "sector": "Power",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE131C01011": {
+  "name": "Disa India Limited",
+  "sector": "Industrial Manufacturing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE256A01028": {
+  "name": "Zee Entertainment Enterprises Limited",
+  "sector": "Entertainment",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE12UN01015": {
+  "name": "Shadowfax Technologies Limited",
+  "sector": "Transport Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE255Z01027": {
+  "name": "E2E Networks Limited",
+  "sector": "IT - Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE647U01026": {
+  "name": "Clean Max Enviro Energy Solutions Ltd",
+  "sector": "Power",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE930P01018": {
+  "name": "Anupam Rasayan India Limited",
+  "sector": "Chemicals & Petrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE2KCE01013": {
+  "name": "Kwality Wall’s (India) Limited",
+  "sector": "Food Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE955D01029": {
+  "name": "Genus Power Infrastructures Limited",
+  "sector": "Electrical Equipment",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0RB801010": {
+  "name": "Senores Pharmaceuticals Limited",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE850M01015": {
+  "name": "Northern Arc Capital Ltd",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE248A01017": {
+  "name": "ITI Ltd.",
+  "sector": "Telecom - Equipment & Accessories",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE348A01023": {
+  "name": "ASHAPURA MINECHEM LTD",
+  "sector": "Minerals & Mining",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE024001021": {
+  "name": "Aeroflex Industries Limited",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE879I01012": {
+  "name": "Valor Estate Limited",
+  "sector": "Realty",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE05HV01027": {
+  "name": "Central Mine Planning & Design Inst Ltd",
+  "sector": "Commercial Services & Supplies",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE900L01028": {
+  "name": "Madhya Bharat Agro Products Limited",
+  "sector": "Fertilizers & Agrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0UH301010": {
+  "name": "Omnitech Engineering Limited",
+  "sector": "Industrial Manufacturing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0J5801029": {
+  "name": "Jeena Sikho Lifecare Ltd.",
+  "sector": "Leisure Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE05XR01022": {
+  "name": "Bharat Coking Coal Limited",
+  "sector": "Consumable Fuels",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE323I01011": {
+  "name": "Puravankara Limited",
+  "sector": "Realty",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE162B01018": {
+  "name": "Lumax Industries Limited",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE2W6901017": {
+  "name": "IGL Spirits Limited",
+  "sector": "Beverages",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE2WCT01016": {
+  "name": "Ennature Bio Pharma Limited",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE236E01022": {
+  "name": "Ellenbarrie Industrial Gases Limited",
+  "sector": "Chemicals & Petrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE602G01020": {
+  "name": "KITEX GARMENTS LIMITED",
+  "sector": "Textiles & Apparels",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE884A01027": {
+  "name": "Vaibhav Global Limited",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0LLY01014": {
+  "name": "Enviro Infra Engineers Limited",
+  "sector": "Other Utilities",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE123F01029": {
+  "name": "MMTC Ltd",
+  "sector": "Commercial Services & Supplies",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE560A01023": {
+  "name": "Indian Glycol Ltd",
+  "sector": "Beverages",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE870D01012": {
+  "name": "NATIONAL FERTILIZERS LTD",
+  "sector": "Fertilizers & Agrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE450U01017": {
+  "name": "Route Mobile Limited",
+  "sector": "Telecom - Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE688D01026": {
+  "name": "RESPONSIVE INDUSTRIES LIMITED",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0BYP01024": {
+  "name": "OSWAL PUMPS LIMITED",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0CJZ01014": {
+  "name": "Inox Renewable Solutions Limited",
+  "sector": "Electrical Equipment",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE18UN01038": {
+  "name": "Gaja Alternative AMC Limited",
+  "sector": "Capital Markets",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE109C01017": {
+  "name": "Arman Financial Services Limited",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE899I01028": {
+  "name": "Symbiotec Pharmalab Ltd",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE757A01017": {
+  "name": "Cosmo First Limited",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE092B01025": {
+  "name": "India Nippon Electricals Limited",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE147X01013": {
+  "name": "Elevate Campuses Limited",
+  "sector": "Commercial Services & Supplies",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE278H01035": {
+  "name": "Sandhar Technologies Limited",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE597J01018": {
+  "name": "Shalby Limited",
+  "sector": "Healthcare Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE608A01012": {
+  "name": "Punjab & Sind Bank",
+  "sector": "BANKS",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE098F01031": {
+  "name": "Amrutanjan Health Care Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0JUS01029": {
+  "name": "Harsha Engineers International Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE056801025": {
+  "name": "Ivalue Infosolutions Ltd.",
+  "sector": "It - Hardware",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE225D01027": {
+  "name": "Symphony Ltd",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE449A01011": {
+  "name": "Automotive Axles Ltd",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE052I01032": {
+  "name": "Camlin Fine Sciences Ltd.",
+  "sector": "Chemicals & Petrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE229C01021": {
+  "name": "Sagar Cements Ltd.",
+  "sector": "Cement & Cement Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE338A01024": {
+  "name": "Thirumalai Chemicals Ltd",
+  "sector": "Chemicals & Petrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE563J01010": {
+  "name": "Astec LifeSciences Ltd.",
+  "sector": "Fertilizers & Agrochemicals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE578A01017": {
+  "name": "Heidleberg Cement India Ltd.",
+  "sector": "Cement & Cement Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0S4R01014": {
+  "name": "Crizac Ltd",
+  "sector": "Retailing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE851I01011": {
+  "name": "Updater Services Ltd",
+  "sector": "Commercial Services & Supplies",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0ISX01025": {
+  "name": "Kusumgar Ltd",
+  "sector": "Textiles & Apparels",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE05C901015": {
+  "name": "Juniper Green Energy Ltd.",
+  "sector": "Power",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE279A01012": {
+  "name": "Universal Cables Ltd",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0M4D01010": {
+  "name": "Standard Engineering Technology Ltd.",
+  "sector": "Industrial Manufacturing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE063E01061": {
+  "name": "Pondy Oxides & Chemical Ltd.",
+  "sector": "Diversified Metals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE00M901018": {
+  "name": "Interarch Building Products Ltd",
+  "sector": "Construction",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE661T01029": {
+  "name": "Paras Healthcare Ltd.",
+  "sector": "Healthcare Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE869T01028": {
+  "name": "Molbio Diagnostics Ltd",
+  "sector": "Healthcare Equipment & Supplies",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0I1B01016": {
+  "name": "Purple Style Labs Ltd.",
+  "sector": "Retailing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE475B01022": {
+  "name": "Hikal Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0H5O01029": {
+  "name": "Windlas Biotech Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE873D01024": {
+  "name": "Indoco Remedies Ltd.",
+  "sector": "Pharmaceuticals & Biotechnology",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0M5301040": {
+  "name": "Varmora Granito Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE059D01020": {
+  "name": "La Opala RG Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE034S01021": {
+  "name": "Arvind Smartspaces Ltd.",
+  "sector": "Realty",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE227J01012": {
+  "name": "Kalpataru Ltd.",
+  "sector": "Realty",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE00Q601028": {
+  "name": "Studds Accessories Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE950I01011": {
+  "name": "D.B. Corp Ltd.",
+  "sector": "Media",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE107A01015": {
+  "name": "Tamil Nadu Newsprint & Papers Ltd.",
+  "sector": "Paper, Forest & Jute Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0I0T01010": {
+  "name": "Virtuoso Optoelectronics Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE528L01027": {
+  "name": "EAAA India Alternatives Ltd.",
+  "sector": "Capital Markets",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE401H01017": {
+  "name": "Kewal Kiran Clothing Ltd.",
+  "sector": "Textiles & Apparels",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0N2201019": {
+  "name": "Fusion Cx Ltd.",
+  "sector": "Commercial Services & Supplies",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0JR601024": {
+  "name": "Yatra Online Ltd",
+  "sector": "Leisure Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0HMF01019": {
+  "name": "Tracxn Technologies Ltd",
+  "sector": "Commercial Services & Supplies",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0O6601022": {
+  "name": "Kross Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE199G01027": {
+  "name": "Jagran Prakashan Ltd.",
+  "sector": "Media",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE772T01024": {
+  "name": "Popular Vehicles and Services Limited",
+  "sector": "Automobiles",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE01FR01028": {
+  "name": "Baazar Style Retail Limited",
+  "sector": "Retailing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE16W401027": {
+  "name": "AUGMONT ENTERPRISES LIMITED",
+  "sector": "Non - Ferrous Metals",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE00Y201027": {
+  "name": "Flair Writing Industries Ltd.",
+  "sector": "Household Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE142Q01026": {
+  "name": "Sula Vineyards Ltd.",
+  "sector": "Beverages",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE274C01019": {
+  "name": "WENDT (India) Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE435A01051": {
+  "name": "Andhra Paper Ltd.",
+  "sector": "Paper, Forest & Jute Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0FOO01011": {
+  "name": "Shiprocket Ltd.",
+  "sector": "Transport Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE050401020": {
+  "name": "Elin Electronics Ltd.",
+  "sector": "Consumer Durables",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE01JE01028": {
+  "name": "Marine Electrical (I) Ltd.",
+  "sector": "Industrial Manufacturing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE451D01029": {
+  "name": "Rajratan Global Wire Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0BJS01011": {
+  "name": "Go Fashion (India) Ltd.",
+  "sector": "Retailing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE528A01020": {
+  "name": "GKW Ltd.",
+  "sector": "Finance",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE03NU01014": {
+  "name": "Brigade Hotel Ventures Ltd.",
+  "sector": "Leisure Services",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE551D01018": {
+  "name": "Pakka Ltd.",
+  "sector": "Paper, Forest & Jute Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE438K01021": {
+  "name": "Sai Silks (Kalamandir) Ltd.",
+  "sector": "Retailing",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE987S01020": {
+  "name": "KSH International Ltd.",
+  "sector": "Industrial Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE062D01024": {
+  "name": "Alicon Castalloy Ltd.",
+  "sector": "Auto Components",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE498Q01014": {
+  "name": "Vintage Coffee And Beverages Ltd.",
+  "sector": "Agricultural Food & other Products",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE0KL801015": {
+  "name": "DCX Systems Ltd.",
+  "sector": "Aerospace & Defense",
+  "fy": "",
+  "report_url": ""
+ },
+ "INE06H201014": {
+  "isin": "INE06H201014",
+  "name": "Gensol Engineering Ltd",
+  "sector": "Other",
+  "backtest_only": true,
+  "fy": "FY2023-24",
+  "event": {
+   "date": "2025-04-15",
+   "summary": "SEBI's interim order barred the company and its promoters over alleged diversion of borrowed funds and governance lapses; the share fell over 90%.",
+   "source": "https://www.businesstoday.in/markets/company-stock/story/sebi-bars-gensol-engineering-its-promoters-from-accessing-markets-in-fund-diversion-case-472151-2025-04-15",
+   "note": "Promoter share pledges (over 80% of the promoters' holding by early 2025) were disclosed in the quarterly shareholding filings to the stock exchanges, not in this annual report, so our pledge check shows 'not found' here. Reading exchange filings is on our roadmap."
+  },
+  "report_url": "/api/reports/INE06H201014.pdf"
+ },
+ "INE335K01011": {
+  "isin": "INE335K01011",
+  "name": "Coffee Day Enterprises Ltd",
+  "sector": "Other",
+  "backtest_only": true,
+  "fy": "FY2017-18",
+  "event": {
+   "date": "2019-07-31",
+   "summary": "After the founder's death in July 2019, investigations found Rs 3,535 crore had been moved from seven subsidiaries to Mysore Amalgamated Coffee Estates, a company controlled by the promoters; SEBI later fined the company Rs 26 crore.",
+   "source": "https://theprint.in/economy/sebi-slaps-rs-25-crore-penalty-on-coffee-day-enterprises/1334652/"
+  },
+  "report_url": "/api/reports/INE335K01011.pdf"
+ },
+ "INE425B01027": {
+  "isin": "INE425B01027",
+  "name": "Brightcom Group Ltd",
+  "sector": "Other",
+  "backtest_only": true,
+  "fy": "FY2021-22",
+  "event": {
+   "date": "2023-04-13",
+   "summary": "SEBI's interim order alleged misstatements in the financial statements; a second order in August 2023 barred the chairman and CFO over fictitious accounting of share-issue money.",
+   "source": "https://business-standard.com/markets/news/sebi-bars-brightcom-group-s-chairman-sk-reddy-and-cfo-narayan-raju-123082200898_1.html"
+  },
+  "report_url": "/api/reports/INE425B01027.pdf"
+ }
+}

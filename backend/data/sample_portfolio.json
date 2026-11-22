@@ -1,0 +1,30 @@
+{
+ "label": "Sample portfolio: 5 popular funds from 5 fund houses (real funds, made-up amounts)",
+ "holdings": [
+  {
+   "scheme_id": "AMFI-102594",
+   "plan": "regular",
+   "value": 200000
+  },
+  {
+   "scheme_id": "AMFI-103504",
+   "plan": "regular",
+   "value": 150000
+  },
+  {
+   "scheme_id": "AMFI-135341",
+   "plan": "regular",
+   "value": 100000
+  },
+  {
+   "scheme_id": "AMFI-103309",
+   "plan": "regular",
+   "value": 100000
+  },
+  {
+   "scheme_id": "AMFI-110604",
+   "plan": "regular",
+   "value": 50000
+  }
+ ]
+}

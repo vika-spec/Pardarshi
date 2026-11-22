@@ -1,0 +1,9 @@
+-r requirements.txt
+pandas>=2.2
+openpyxl>=3.1   # .xlsx
+xlrd>=2.0       # .xls
+pyxlsb>=1.0     # .xlsb
+odfpy>=1.4      # .ods
+lxml>=5.0       # .html and '.xls' files that are really web pages
+# optional: dense retrieval + reranking for the offline red-flag build (uses your GPU if present)
+sentence-transformers>=3.0

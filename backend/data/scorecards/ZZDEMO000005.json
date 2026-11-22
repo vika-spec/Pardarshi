@@ -1,0 +1,291 @@
+{
+ "isin": "ZZDEMO000005",
+ "name": "Sample Co. Ltd",
+ "fy": "FY2025-26",
+ "report_url": "/api/reports/ZZDEMO000005.pdf",
+ "n_pages": 10,
+ "checks": [
+  {
+   "id": "auditor_opinion",
+   "title": {
+    "en": "Auditor raised concerns",
+    "hi": "ऑडिटर ने आपत्ति जताई"
+   },
+   "what": {
+    "en": "The outside accountant signs off on the books. A 'qualified' or 'adverse' opinion, or a going-concern warning, means they were not fully satisfied.",
+    "hi": "बाहरी ऑडिटर कंपनी के खातों की जाँच करता है। 'क्वालिफ़ाइड' या 'एडवर्स' राय का मतलब है कि वह पूरी तरह संतुष्ट नहीं था।"
+   },
+   "rule": "Flag if the independent auditor's report contains a qualified, adverse or disclaimer of opinion, or a material uncertainty about going concern.",
+   "severity": "high",
+   "status": "passed",
+   "summary": {
+    "en": "The auditor gave a clean (unmodified) opinion.",
+    "hi": "ऑडिटर ने साफ़ राय दी।"
+   },
+   "values": {},
+   "derived": {},
+   "basis": null,
+   "evidence": [
+    {
+     "quote": "In our opinion and to the best of our information and according to the explanations",
+     "page": 4,
+     "verified": true,
+     "match": 100.0
+    }
+   ],
+   "method": "heuristic",
+   "confidence": "medium"
+  },
+  {
+   "id": "auditor_change",
+   "title": {
+    "en": "Auditor resigned mid-term",
+    "hi": "ऑडिटर ने बीच में इस्तीफ़ा दिया"
+   },
+   "what": {
+    "en": "Auditors rarely quit early. A resignation, especially with vague reasons, has preceded several Indian collapses.",
+    "hi": "ऑडिटर आमतौर पर बीच में इस्तीफ़ा नहीं देते। कई कंपनियों के डूबने से पहले ऐसा हुआ है।"
+   },
+   "rule": "Flag if the report mentions the statutory auditor resigning or a casual vacancy in the auditor's office during the year.",
+   "severity": "high",
+   "status": "passed",
+   "summary": {
+    "en": "No auditor resignation is mentioned.",
+    "hi": "ऑडिटर के इस्तीफ़े का कोई ज़िक्र नहीं है।"
+   },
+   "values": {},
+   "derived": {},
+   "basis": null,
+   "evidence": [
+    {
+     "quote": "M/s Example & Associates were appointed as the statutory auditors of the Company at the 38th AGM.",
+     "page": 2,
+     "verified": true,
+     "match": 100.0
+    }
+   ],
+   "method": "heuristic",
+   "confidence": "medium"
+  },
+  {
+   "id": "promoter_pledge",
+   "title": {
+    "en": "Owners borrowed against their shares",
+    "hi": "मालिकों ने अपने शेयर गिरवी रखे"
+   },
+   "what": {
+    "en": "When promoters pledge shares for loans and the price falls, lenders can sell those shares, pushing the price down further.",
+    "hi": "प्रमोटर शेयर गिरवी रखकर कर्ज़ लेते हैं। दाम गिरने पर कर्ज़ देने वाले शेयर बेच सकते हैं।"
+   },
+   "rule": "Flag if more than 10% of the promoter group's shares are pledged or encumbered (high if above 25%).",
+   "severity": "high",
+   "status": "passed",
+   "summary": {
+    "en": "Only 4.2% of the owners' shares are pledged.",
+    "hi": "मालिकों के केवल 4.2% शेयर गिरवी हैं।"
+   },
+   "values": {
+    "pledged_pct_of_promoter_holding": 4.2
+   },
+   "derived": {
+    "pledged_pct_of_promoter_holding": 4.2
+   },
+   "basis": null,
+   "evidence": [
+    {
+     "quote": "Shares pledged or encumbered by the promoter group: 4.2% of promoter holding.",
+     "page": 10,
+     "verified": true,
+     "match": 100.0
+    }
+   ],
+   "method": "heuristic",
+   "confidence": "medium"
+  },
+  {
+   "id": "related_party",
+   "title": {
+    "en": "Large deals with the owner's own companies",
+    "hi": "मालिक की अपनी कंपनियों से बड़े सौदे"
+   },
+   "what": {
+    "en": "Buying from or lending to firms the promoter controls can move money out of the company. Not wrong by itself, but worth reading.",
+    "hi": "प्रमोटर की अपनी कंपनियों से लेन-देन से पैसा बाहर जा सकता है। यह अपने आप में गलत नहीं, पर ध्यान देने लायक है।"
+   },
+   "rule": "Flag if related-party transactions exceed 10% of revenue, or grew more than 20 percentage points faster than revenue.",
+   "severity": "medium",
+   "status": "flagged",
+   "summary": {
+    "en": "Related-party deals are 20% of revenue and grew 127% vs revenue growth of 16%.",
+    "hi": "संबंधित पक्षों से सौदे आय के 20% हैं और 127% बढ़े, जबकि आय 16% बढ़ी।"
+   },
+   "values": {
+    "rpt_current": 486.0,
+    "rpt_previous": 214.0,
+    "revenue_current": 2480.0,
+    "revenue_previous": 2130.0
+   },
+   "derived": {
+    "rpt_pct_revenue": 19.6,
+    "rpt_growth": 127.1,
+    "revenue_growth": 16.43
+   },
+   "basis": null,
+   "evidence": [
+    {
+     "quote": "Total transactions with related parties                          486.0       214.0",
+     "page": 8,
+     "verified": true,
+     "match": 100.0
+    },
+    {
+     "quote": "Revenue from operations                                        2,480.0     2,130.0",
+     "page": 6,
+     "verified": true,
+     "match": 100.0
+    }
+   ],
+   "method": "heuristic",
+   "confidence": "medium"
+  },
+  {
+   "id": "contingent_liabilities",
+   "title": {
+    "en": "Big possible bills kept off the balance sheet",
+    "hi": "बैलेंस शीट से बाहर रखे बड़े संभावित भुगतान"
+   },
+   "what": {
+    "en": "Contingent liabilities are payments the company may have to make, from lawsuits, tax disputes or guarantees. They are not counted as debt.",
+    "hi": "ये ऐसे भुगतान हैं जो कंपनी को मुकदमों, टैक्स विवादों या गारंटी के कारण करने पड़ सकते हैं।"
+   },
+   "rule": "Flag if contingent liabilities not provided for exceed 25% of total equity (net worth).",
+   "severity": "medium",
+   "status": "passed",
+   "summary": {
+    "en": "Possible bills are 6% of net worth, a modest amount.",
+    "hi": "संभावित भुगतान नेट वर्थ के 6% हैं, जो कम है।"
+   },
+   "values": {
+    "contingent_liabilities": 180.5,
+    "total_equity": 2950.0
+   },
+   "derived": {
+    "contingent_pct_equity": 6.12
+   },
+   "basis": null,
+   "evidence": [
+    {
+     "quote": "Contingent liabilities not provided for                          180.5       160.0",
+     "page": 9,
+     "verified": true,
+     "match": 100.0
+    },
+    {
+     "quote": "Total equity                                                   2,950.0     2,610.0",
+     "page": 5,
+     "verified": true,
+     "match": 100.0
+    }
+   ],
+   "method": "heuristic",
+   "confidence": "medium"
+  },
+  {
+   "id": "cash_vs_profit",
+   "title": {
+    "en": "Profit rose, but real cash didn't",
+    "hi": "मुनाफ़ा बढ़ा, पर असली नकद नहीं"
+   },
+   "what": {
+    "en": "Profit is an accounting number; operating cash flow is money that actually came in. When profit keeps beating cash, the accounts may be stretched.",
+    "hi": "मुनाफ़ा हिसाब-किताब का आंकड़ा है; ऑपरेटिंग कैश फ़्लो असली आया पैसा है। लगातार अंतर हो तो खाते खिंचे हुए हो सकते हैं।"
+   },
+   "rule": "Flag if operating cash flow over the last two years is below 50% of profit over the same two years, or cash flow fell while profit rose.",
+   "severity": "high",
+   "status": "flagged",
+   "summary": {
+    "en": "Over two years, cash from operations was 33% of reported profit.",
+    "hi": "दो साल में ऑपरेशन से आया नकद, बताए गए मुनाफ़े का केवल 33% था।"
+   },
+   "values": {
+    "pat_current": 412.6,
+    "pat_previous": 318.2,
+    "cfo_current": 96.4,
+    "cfo_previous": 141.8
+   },
+   "derived": {
+    "cfo_to_pat": 32.59
+   },
+   "basis": null,
+   "evidence": [
+    {
+     "quote": "Profit for the year                                              412.6       318.2",
+     "page": 6,
+     "verified": true,
+     "match": 100.0
+    },
+    {
+     "quote": "Net cash generated from operating activities                      96.4       141.8",
+     "page": 7,
+     "verified": true,
+     "match": 100.0
+    }
+   ],
+   "method": "heuristic",
+   "confidence": "medium"
+  },
+  {
+   "id": "receivables",
+   "title": {
+    "en": "Customers owe more, faster than sales grow",
+    "hi": "बिक्री से तेज़ी से बढ़ता बकाया"
+   },
+   "what": {
+    "en": "Trade receivables are sales not yet paid for. If they grow much faster than sales, some sales may never turn into cash.",
+    "hi": "ग्राहकों पर बकाया वह बिक्री है जिसका पैसा अभी नहीं आया। यह बिक्री से बहुत तेज़ बढ़े तो चिंता की बात है।"
+   },
+   "rule": "Flag if trade receivables grew more than 20 percentage points faster than revenue from operations.",
+   "severity": "medium",
+   "status": "passed",
+   "summary": {
+    "en": "Money owed by customers grew 19%, in step with sales (16%).",
+    "hi": "बकाया 19% बढ़ा, बिक्री (16%) के साथ।"
+   },
+   "values": {
+    "receivables_current": 642.0,
+    "receivables_previous": 540.0,
+    "revenue_current": 2480.0,
+    "revenue_previous": 2130.0
+   },
+   "derived": {
+    "receivables_growth": 18.89,
+    "revenue_growth": 16.43
+   },
+   "basis": null,
+   "evidence": [
+    {
+     "quote": "Trade receivables                                                642.0       540.0",
+     "page": 5,
+     "verified": true,
+     "match": 100.0
+    },
+    {
+     "quote": "Revenue from operations                                        2,480.0     2,130.0",
+     "page": 6,
+     "verified": true,
+     "match": 100.0
+    }
+   ],
+   "method": "heuristic",
+   "confidence": "medium"
+  }
+ ],
+ "counts": {
+  "flagged": 2,
+  "passed": 5,
+  "not_found": 0,
+  "unverified": 0
+ },
+ "generated_at": "2026-11-16T10:35:44+00:00",
+ "page_numbering": "PDF page numbers (open the PDF at #page=N)"
+}

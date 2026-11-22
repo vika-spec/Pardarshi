@@ -1,0 +1,299 @@
+{
+ "compared": 28,
+ "matched": 23,
+ "match_rate": 0.821,
+ "matched_labelled_basis": 17,
+ "wrong_basis_label": 6,
+ "mismatched": 5,
+ "mixed_basis_checks": [
+  {
+   "company": "Larsen & Toubro",
+   "check": "cash_vs_profit"
+  }
+ ],
+ "standalone_skipped": 0,
+ "source": "screener.in annual figures, standalone and consolidated (Rs crore)",
+ "checked_at": "2026-11-22",
+ "rows": [
+  {
+   "company": "Reliance Industries",
+   "check": "related_party",
+   "figure": "revenue_current",
+   "ours": 328202.0,
+   "reference": 1055780.0,
+   "basis": "consolidated",
+   "unit": null,
+   "result": "MISMATCH"
+  },
+  {
+   "company": "Reliance Industries",
+   "check": "related_party",
+   "figure": "revenue_previous",
+   "ours": 291043.0,
+   "reference": 962820.0,
+   "basis": "consolidated",
+   "unit": null,
+   "result": "MISMATCH"
+  },
+  {
+   "company": "Reliance Industries",
+   "check": "contingent_liabilities",
+   "figure": "total_equity",
+   "ours": 1165809.0,
+   "reference": 904030.0,
+   "basis": "consolidated",
+   "unit": null,
+   "result": "MISMATCH"
+  },
+  {
+   "company": "Reliance Industries",
+   "check": "cash_vs_profit",
+   "figure": "pat_current",
+   "ours": 43851,
+   "reference": 43851.0,
+   "basis": "standalone",
+   "unit": "crore",
+   "result": "match"
+  },
+  {
+   "company": "Reliance Industries",
+   "check": "cash_vs_profit",
+   "figure": "pat_previous",
+   "ours": 35262,
+   "reference": 35262.0,
+   "basis": "standalone",
+   "unit": "crore",
+   "result": "match"
+  },
+  {
+   "company": "Reliance Industries",
+   "check": "cash_vs_profit",
+   "figure": "cfo_current",
+   "ours": 79059,
+   "reference": 79059.0,
+   "basis": "standalone",
+   "unit": "crore",
+   "result": "match"
+  },
+  {
+   "company": "Reliance Industries",
+   "check": "cash_vs_profit",
+   "figure": "cfo_previous",
+   "ours": 79392,
+   "reference": 79392.0,
+   "basis": "standalone",
+   "unit": "crore",
+   "result": "match"
+  },
+  {
+   "company": "Reliance Industries",
+   "check": "receivables",
+   "figure": "revenue_current",
+   "ours": 1075675,
+   "reference": 1055780.0,
+   "basis": "consolidated",
+   "unit": "crore",
+   "result": "match"
+  },
+  {
+   "company": "Reliance Industries",
+   "check": "receivables",
+   "figure": "revenue_previous",
+   "ours": 980136,
+   "reference": 962820.0,
+   "basis": "consolidated",
+   "unit": "crore",
+   "result": "match"
+  },
+  {
+   "company": "Infosys",
+   "check": "related_party",
+   "figure": "revenue_current",
+   "ours": 148819.0,
+   "reference": 178650.0,
+   "basis": "consolidated",
+   "unit": "crore",
+   "result": "match (other basis)"
+  },
+  {
+   "company": "Infosys",
+   "check": "related_party",
+   "figure": "revenue_previous",
+   "ours": 136592.0,
+   "reference": 162990.0,
+   "basis": "consolidated",
+   "unit": "crore",
+   "result": "match (other basis)"
+  },
+  {
+   "company": "Infosys",
+   "check": "contingent_liabilities",
+   "figure": "total_equity",
+   "ours": 93297,
+   "reference": 92852.0,
+   "basis": "consolidated",
+   "unit": "crore",
+   "result": "match"
+  },
+  {
+   "company": "Infosys",
+   "check": "cash_vs_profit",
+   "figure": "pat_current",
+   "ours": 29474,
+   "reference": 29474.0,
+   "basis": "consolidated",
+   "unit": "crore",
+   "result": "match"
+  },
+  {
+   "company": "Infosys",
+   "check": "cash_vs_profit",
+   "figure": "pat_previous",
+   "ours": 26750,
+   "reference": 26750.0,
+   "basis": "consolidated",
+   "unit": "crore",
+   "result": "match"
+  },
+  {
+   "company": "Infosys",
+   "check": "cash_vs_profit",
+   "figure": "cfo_current",
+   "ours": 33986,
+   "reference": 33986.0,
+   "basis": "consolidated",
+   "unit": "crore",
+   "result": "match"
+  },
+  {
+   "company": "Infosys",
+   "check": "cash_vs_profit",
+   "figure": "cfo_previous",
+   "ours": 35694,
+   "reference": 35694.0,
+   "basis": "consolidated",
+   "unit": "crore",
+   "result": "match"
+  },
+  {
+   "company": "Infosys",
+   "check": "receivables",
+   "figure": "revenue_current",
+   "ours": 178650,
+   "reference": 178650.0,
+   "basis": "consolidated",
+   "unit": "crore",
+   "result": "match"
+  },
+  {
+   "company": "Infosys",
+   "check": "receivables",
+   "figure": "revenue_previous",
+   "ours": 162990,
+   "reference": 162990.0,
+   "basis": "consolidated",
+   "unit": "crore",
+   "result": "match"
+  },
+  {
+   "company": "Larsen & Toubro",
+   "check": "related_party",
+   "figure": "revenue_current",
+   "ours": 153680.17,
+   "reference": 285874.0,
+   "basis": "consolidated",
+   "unit": "crore",
+   "result": "match (other basis)"
+  },
+  {
+   "company": "Larsen & Toubro",
+   "check": "related_party",
+   "figure": "revenue_previous",
+   "ours": 142509.01,
+   "reference": 255734.0,
+   "basis": "consolidated",
+   "unit": "crore",
+   "result": "match (other basis)"
+  },
+  {
+   "company": "Larsen & Toubro",
+   "check": "contingent_liabilities",
+   "figure": "total_equity",
+   "ours": 128530.46,
+   "reference": 109290.0,
+   "basis": "consolidated",
+   "unit": null,
+   "result": "MISMATCH"
+  },
+  {
+   "company": "Larsen & Toubro",
+   "check": "cash_vs_profit",
+   "figure": "pat_current",
+   "ours": 18953.88,
+   "reference": 18954.0,
+   "basis": "consolidated",
+   "unit": "crore",
+   "result": "match"
+  },
+  {
+   "company": "Larsen & Toubro",
+   "check": "cash_vs_profit",
+   "figure": "pat_previous",
+   "ours": 17673.33,
+   "reference": 17673.0,
+   "basis": "consolidated",
+   "unit": "crore",
+   "result": "match"
+  },
+  {
+   "company": "Larsen & Toubro",
+   "check": "cash_vs_profit",
+   "figure": "cfo_current",
+   "ours": 21927.95,
+   "reference": 16741.0,
+   "basis": "consolidated",
+   "unit": "crore",
+   "result": "match (other basis)"
+  },
+  {
+   "company": "Larsen & Toubro",
+   "check": "cash_vs_profit",
+   "figure": "cfo_previous",
+   "ours": 12703.05,
+   "reference": 9151.0,
+   "basis": "consolidated",
+   "unit": "crore",
+   "result": "match (other basis)"
+  },
+  {
+   "company": "Gensol Engineering",
+   "check": "related_party",
+   "figure": "revenue_current",
+   "ours": 963.1,
+   "reference": 963.0,
+   "basis": "consolidated",
+   "unit": "crore",
+   "result": "match"
+  },
+  {
+   "company": "Gensol Engineering",
+   "check": "related_party",
+   "figure": "revenue_previous",
+   "ours": 397.97,
+   "reference": 398.0,
+   "basis": "consolidated",
+   "unit": "crore",
+   "result": "match"
+  },
+  {
+   "company": "Gensol Engineering",
+   "check": "contingent_liabilities",
+   "figure": "total_equity",
+   "ours": 344.1,
+   "reference": 326.0,
+   "basis": "consolidated",
+   "unit": null,
+   "result": "MISMATCH"
+  }
+ ]
+}

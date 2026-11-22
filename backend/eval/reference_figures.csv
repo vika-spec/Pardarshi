@@ -1,0 +1,50 @@
+isin,company,basis,year,field,value_crore,source
+INE002A01018,Reliance Industries,consolidated,current,revenue,1055780,https://www.screener.in/company/RELIANCE/consolidated/
+INE002A01018,Reliance Industries,consolidated,previous,revenue,962820,https://www.screener.in/company/RELIANCE/consolidated/
+INE002A01018,Reliance Industries,consolidated,current,pat,95754,https://www.screener.in/company/RELIANCE/consolidated/
+INE002A01018,Reliance Industries,consolidated,previous,pat,81309,https://www.screener.in/company/RELIANCE/consolidated/
+INE002A01018,Reliance Industries,consolidated,current,cfo,192113,https://www.screener.in/company/RELIANCE/consolidated/
+INE002A01018,Reliance Industries,consolidated,previous,cfo,178703,https://www.screener.in/company/RELIANCE/consolidated/
+INE002A01018,Reliance Industries,consolidated,current,equity,904030,https://www.screener.in/company/RELIANCE/consolidated/
+INE009A01021,Infosys,consolidated,current,revenue,178650,https://www.screener.in/company/INFY/consolidated/
+INE009A01021,Infosys,consolidated,previous,revenue,162990,https://www.screener.in/company/INFY/consolidated/
+INE009A01021,Infosys,consolidated,current,pat,29474,https://www.screener.in/company/INFY/consolidated/
+INE009A01021,Infosys,consolidated,previous,pat,26750,https://www.screener.in/company/INFY/consolidated/
+INE009A01021,Infosys,consolidated,current,cfo,33986,https://www.screener.in/company/INFY/consolidated/
+INE009A01021,Infosys,consolidated,previous,cfo,35694,https://www.screener.in/company/INFY/consolidated/
+INE009A01021,Infosys,consolidated,current,equity,92852,https://www.screener.in/company/INFY/consolidated/
+INE018A01030,Larsen & Toubro,consolidated,current,revenue,285874,https://www.screener.in/company/LT/consolidated/
+INE018A01030,Larsen & Toubro,consolidated,previous,revenue,255734,https://www.screener.in/company/LT/consolidated/
+INE018A01030,Larsen & Toubro,consolidated,current,pat,18954,https://www.screener.in/company/LT/consolidated/
+INE018A01030,Larsen & Toubro,consolidated,previous,pat,17673,https://www.screener.in/company/LT/consolidated/
+INE018A01030,Larsen & Toubro,consolidated,current,cfo,16741,https://www.screener.in/company/LT/consolidated/
+INE018A01030,Larsen & Toubro,consolidated,previous,cfo,9151,https://www.screener.in/company/LT/consolidated/
+INE018A01030,Larsen & Toubro,consolidated,current,equity,109290,https://www.screener.in/company/LT/consolidated/
+INE06H201014,Gensol Engineering,consolidated,current,revenue,963,https://www.screener.in/company/GENSOL/consolidated/
+INE06H201014,Gensol Engineering,consolidated,previous,revenue,398,https://www.screener.in/company/GENSOL/consolidated/
+INE06H201014,Gensol Engineering,consolidated,current,pat,53,https://www.screener.in/company/GENSOL/consolidated/
+INE06H201014,Gensol Engineering,consolidated,previous,pat,23,https://www.screener.in/company/GENSOL/consolidated/
+INE06H201014,Gensol Engineering,consolidated,current,cfo,-98,https://www.screener.in/company/GENSOL/consolidated/
+INE06H201014,Gensol Engineering,consolidated,previous,cfo,115,https://www.screener.in/company/GENSOL/consolidated/
+INE06H201014,Gensol Engineering,consolidated,current,equity,326,https://www.screener.in/company/GENSOL/consolidated/
+INE002A01018,Reliance Industries,standalone,current,revenue,504026,https://www.screener.in/company/RELIANCE/
+INE002A01018,Reliance Industries,standalone,previous,revenue,515425,https://www.screener.in/company/RELIANCE/
+INE002A01018,Reliance Industries,standalone,current,pat,43851,https://www.screener.in/company/RELIANCE/
+INE002A01018,Reliance Industries,standalone,previous,pat,35262,https://www.screener.in/company/RELIANCE/
+INE002A01018,Reliance Industries,standalone,current,cfo,79059,https://www.screener.in/company/RELIANCE/
+INE002A01018,Reliance Industries,standalone,previous,cfo,79392,https://www.screener.in/company/RELIANCE/
+INE002A01018,Reliance Industries,standalone,current,equity,566235,https://www.screener.in/company/RELIANCE/
+INE009A01021,Infosys,standalone,current,revenue,148819,https://www.screener.in/company/INFY/
+INE009A01021,Infosys,standalone,previous,revenue,136592,https://www.screener.in/company/INFY/
+INE009A01021,Infosys,standalone,current,pat,29211,https://www.screener.in/company/INFY/
+INE009A01021,Infosys,standalone,previous,pat,25568,https://www.screener.in/company/INFY/
+INE009A01021,Infosys,standalone,current,cfo,28164,https://www.screener.in/company/INFY/
+INE009A01021,Infosys,standalone,previous,cfo,29409,https://www.screener.in/company/INFY/
+INE009A01021,Infosys,standalone,current,equity,80874,https://www.screener.in/company/INFY/
+INE018A01030,Larsen & Toubro,standalone,current,revenue,153680,https://www.screener.in/company/LT/
+INE018A01030,Larsen & Toubro,standalone,previous,revenue,142509,https://www.screener.in/company/LT/
+INE018A01030,Larsen & Toubro,standalone,current,pat,6287,https://www.screener.in/company/LT/
+INE018A01030,Larsen & Toubro,standalone,previous,pat,10871,https://www.screener.in/company/LT/
+INE018A01030,Larsen & Toubro,standalone,current,cfo,21928,https://www.screener.in/company/LT/
+INE018A01030,Larsen & Toubro,standalone,previous,cfo,12703,https://www.screener.in/company/LT/
+INE018A01030,Larsen & Toubro,standalone,current,equity,74533,https://www.screener.in/company/LT/

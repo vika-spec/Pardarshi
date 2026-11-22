@@ -1,0 +1,19 @@
+# python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+backend/.env
+backend/data/raw/
+# node
+frontend/node_modules/
+frontend/.next/
+frontend/.env*.local
+# misc
+.DS_Store
+# real annual-report PDFs are too large for git (page text lives in data/chunks)
+backend/data/reports/INE*.pdf
+backend/data/reports/history/
+backend/data/eval/labels_new.csv
+*.log

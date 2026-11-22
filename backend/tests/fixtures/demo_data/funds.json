@@ -1,0 +1,682 @@
+[
+ {
+  "scheme_id": "DEMO-LCA",
+  "name": "Demo Large Cap Fund A",
+  "amc": "Demo AMC One",
+  "category": "Large Cap",
+  "holdings_asof": "2026-10-31",
+  "plans": {
+   "direct": {
+    "isins": [
+     "ZZDEMOD00000"
+    ],
+    "amfi": "9000001",
+    "ter": 0.68
+   },
+   "regular": {
+    "isins": [
+     "ZZDEMOR00000"
+    ],
+    "amfi": "9000002",
+    "ter": 1.72
+   }
+  },
+  "holdings": [
+   {
+    "isin": "ZZDEMO000002",
+    "name": "Lotus Bank Ltd",
+    "sector": "Banking",
+    "weight": 0.19766
+   },
+   {
+    "isin": "ZZDEMO000003",
+    "name": "Indus Software Ltd",
+    "sector": "IT services",
+    "weight": 0.16461
+   },
+   {
+    "isin": "ZZDEMO000001",
+    "name": "Northwind Bank Ltd",
+    "sector": "Banking",
+    "weight": 0.11313
+   },
+   {
+    "isin": "ZZDEMO000005",
+    "name": "Sample Co. Ltd",
+    "sector": "Consumer goods",
+    "weight": 0.09912
+   },
+   {
+    "isin": "ZZDEMO000004",
+    "name": "Saffron Energy Ltd",
+    "sector": "Energy",
+    "weight": 0.09043
+   },
+   {
+    "isin": "ZZDEMO000010",
+    "name": "Narmada Telecom Ltd",
+    "sector": "Telecom",
+    "weight": 0.07987
+   },
+   {
+    "isin": "ZZDEMO000012",
+    "name": "Coral Insurance Ltd",
+    "sector": "Insurance",
+    "weight": 0.07782
+   },
+   {
+    "isin": "ZZDEMO000009",
+    "name": "Ganga Motors Ltd",
+    "sector": "Automobiles",
+    "weight": 0.06807
+   },
+   {
+    "isin": "ZZDEMO000014",
+    "name": "Konkan Paints Ltd",
+    "sector": "Consumer goods",
+    "weight": 0.02565
+   },
+   {
+    "isin": "ZZDEMO000006",
+    "name": "Kaveri Cement Ltd",
+    "sector": "Cement",
+    "weight": 0.02138
+   },
+   {
+    "isin": "ZZDEMO000008",
+    "name": "Deccan Pharma Ltd",
+    "sector": "Pharma",
+    "weight": 0.01601
+   },
+   {
+    "isin": "ZZDEMO000007",
+    "name": "Monsoon Foods Ltd",
+    "sector": "Food products",
+    "weight": 0.00626
+   }
+  ]
+ },
+ {
+  "scheme_id": "DEMO-FCB",
+  "name": "Demo Flexi Cap Fund B",
+  "amc": "Demo AMC One",
+  "category": "Flexi Cap",
+  "holdings_asof": "2026-10-31",
+  "plans": {
+   "direct": {
+    "isins": [
+     "ZZDEMOD00001"
+    ],
+    "amfi": "9000011",
+    "ter": 0.71
+   },
+   "regular": {
+    "isins": [
+     "ZZDEMOR00001"
+    ],
+    "amfi": "9000012",
+    "ter": 1.68
+   }
+  },
+  "holdings": [
+   {
+    "isin": "ZZDEMO000001",
+    "name": "Northwind Bank Ltd",
+    "sector": "Banking",
+    "weight": 0.19044
+   },
+   {
+    "isin": "ZZDEMO000002",
+    "name": "Lotus Bank Ltd",
+    "sector": "Banking",
+    "weight": 0.17204
+   },
+   {
+    "isin": "ZZDEMO000005",
+    "name": "Sample Co. Ltd",
+    "sector": "Consumer goods",
+    "weight": 0.11351
+   },
+   {
+    "isin": "ZZDEMO000010",
+    "name": "Narmada Telecom Ltd",
+    "sector": "Telecom",
+    "weight": 0.09217
+   },
+   {
+    "isin": "ZZDEMO000012",
+    "name": "Coral Insurance Ltd",
+    "sector": "Insurance",
+    "weight": 0.0752
+   },
+   {
+    "isin": "ZZDEMO000003",
+    "name": "Indus Software Ltd",
+    "sector": "IT services",
+    "weight": 0.0664
+   },
+   {
+    "isin": "ZZDEMO000004",
+    "name": "Saffron Energy Ltd",
+    "sector": "Energy",
+    "weight": 0.06181
+   },
+   {
+    "isin": "ZZDEMO000014",
+    "name": "Konkan Paints Ltd",
+    "sector": "Consumer goods",
+    "weight": 0.04916
+   },
+   {
+    "isin": "ZZDEMO000009",
+    "name": "Ganga Motors Ltd",
+    "sector": "Automobiles",
+    "weight": 0.04537
+   },
+   {
+    "isin": "ZZDEMO000008",
+    "name": "Deccan Pharma Ltd",
+    "sector": "Pharma",
+    "weight": 0.03881
+   },
+   {
+    "isin": "ZZDEMO000006",
+    "name": "Kaveri Cement Ltd",
+    "sector": "Cement",
+    "weight": 0.02843
+   },
+   {
+    "isin": "ZZDEMO000007",
+    "name": "Monsoon Foods Ltd",
+    "sector": "Food products",
+    "weight": 0.01262
+   },
+   {
+    "isin": "ZZDEMO000011",
+    "name": "Vindhya Steel Ltd",
+    "sector": "Metals",
+    "weight": 0.01009
+   },
+   {
+    "isin": "ZZDEMO000013",
+    "name": "Teak Retail Ltd",
+    "sector": "Retail",
+    "weight": 0.00395
+   }
+  ]
+ },
+ {
+  "scheme_id": "DEMO-BCC",
+  "name": "Demo Bluechip Fund C",
+  "amc": "Demo AMC Two",
+  "category": "Large Cap",
+  "holdings_asof": "2026-10-31",
+  "plans": {
+   "direct": {
+    "isins": [
+     "ZZDEMOD00002"
+    ],
+    "amfi": "9000021",
+    "ter": 0.92
+   },
+   "regular": {
+    "isins": [
+     "ZZDEMOR00002"
+    ],
+    "amfi": "9000022",
+    "ter": 1.81
+   }
+  },
+  "holdings": [
+   {
+    "isin": "ZZDEMO000002",
+    "name": "Lotus Bank Ltd",
+    "sector": "Banking",
+    "weight": 0.19703
+   },
+   {
+    "isin": "ZZDEMO000001",
+    "name": "Northwind Bank Ltd",
+    "sector": "Banking",
+    "weight": 0.16606
+   },
+   {
+    "isin": "ZZDEMO000004",
+    "name": "Saffron Energy Ltd",
+    "sector": "Energy",
+    "weight": 0.14946
+   },
+   {
+    "isin": "ZZDEMO000003",
+    "name": "Indus Software Ltd",
+    "sector": "IT services",
+    "weight": 0.14356
+   },
+   {
+    "isin": "ZZDEMO000005",
+    "name": "Sample Co. Ltd",
+    "sector": "Consumer goods",
+    "weight": 0.12452
+   },
+   {
+    "isin": "ZZDEMO000009",
+    "name": "Ganga Motors Ltd",
+    "sector": "Automobiles",
+    "weight": 0.05923
+   },
+   {
+    "isin": "ZZDEMO000010",
+    "name": "Narmada Telecom Ltd",
+    "sector": "Telecom",
+    "weight": 0.05374
+   },
+   {
+    "isin": "ZZDEMO000012",
+    "name": "Coral Insurance Ltd",
+    "sector": "Insurance",
+    "weight": 0.0371
+   },
+   {
+    "isin": "ZZDEMO000014",
+    "name": "Konkan Paints Ltd",
+    "sector": "Consumer goods",
+    "weight": 0.02101
+   },
+   {
+    "isin": "ZZDEMO000008",
+    "name": "Deccan Pharma Ltd",
+    "sector": "Pharma",
+    "weight": 0.00829
+   }
+  ]
+ },
+ {
+  "scheme_id": "DEMO-MCD",
+  "name": "Demo Mid Cap Fund D",
+  "amc": "Demo AMC Two",
+  "category": "Mid Cap",
+  "holdings_asof": "2026-10-31",
+  "plans": {
+   "direct": {
+    "isins": [
+     "ZZDEMOD00003"
+    ],
+    "amfi": "9000031",
+    "ter": 0.74
+   },
+   "regular": {
+    "isins": [
+     "ZZDEMOR00003"
+    ],
+    "amfi": "9000032",
+    "ter": 1.89
+   }
+  },
+  "holdings": [
+   {
+    "isin": "ZZDEMO000006",
+    "name": "Kaveri Cement Ltd",
+    "sector": "Cement",
+    "weight": 0.20575
+   },
+   {
+    "isin": "ZZDEMO000011",
+    "name": "Vindhya Steel Ltd",
+    "sector": "Metals",
+    "weight": 0.17644
+   },
+   {
+    "isin": "ZZDEMO000007",
+    "name": "Monsoon Foods Ltd",
+    "sector": "Food products",
+    "weight": 0.14885
+   },
+   {
+    "isin": "ZZDEMO000013",
+    "name": "Teak Retail Ltd",
+    "sector": "Retail",
+    "weight": 0.10983
+   },
+   {
+    "isin": "ZZDEMO000012",
+    "name": "Coral Insurance Ltd",
+    "sector": "Insurance",
+    "weight": 0.08903
+   },
+   {
+    "isin": "ZZDEMO000017",
+    "name": "Malabar Finance Ltd",
+    "sector": "NBFC",
+    "weight": 0.08571
+   },
+   {
+    "isin": "ZZDEMO000015",
+    "name": "Brahmaputra Power Ltd",
+    "sector": "Power",
+    "weight": 0.07665
+   },
+   {
+    "isin": "ZZDEMO000009",
+    "name": "Ganga Motors Ltd",
+    "sector": "Automobiles",
+    "weight": 0.04852
+   },
+   {
+    "isin": "ZZDEMO000014",
+    "name": "Konkan Paints Ltd",
+    "sector": "Consumer goods",
+    "weight": 0.01921
+   }
+  ]
+ },
+ {
+  "scheme_id": "DEMO-SCE",
+  "name": "Demo Small Cap Fund E",
+  "amc": "Demo AMC Three",
+  "category": "Small Cap",
+  "holdings_asof": "2026-10-31",
+  "plans": {
+   "direct": {
+    "isins": [
+     "ZZDEMOD00004"
+    ],
+    "amfi": "9000041",
+    "ter": 0.81
+   },
+   "regular": {
+    "isins": [
+     "ZZDEMOR00004"
+    ],
+    "amfi": "9000042",
+    "ter": 1.95
+   }
+  },
+  "holdings": [
+   {
+    "isin": "ZZDEMO000016",
+    "name": "Aravali Chemicals Ltd",
+    "sector": "Chemicals",
+    "weight": 0.29963
+   },
+   {
+    "isin": "ZZDEMO000018",
+    "name": "Satpura Logistics Ltd",
+    "sector": "Logistics",
+    "weight": 0.26884
+   },
+   {
+    "isin": "ZZDEMO000013",
+    "name": "Teak Retail Ltd",
+    "sector": "Retail",
+    "weight": 0.18224
+   },
+   {
+    "isin": "ZZDEMO000017",
+    "name": "Malabar Finance Ltd",
+    "sector": "NBFC",
+    "weight": 0.10903
+   },
+   {
+    "isin": "ZZDEMO000006",
+    "name": "Kaveri Cement Ltd",
+    "sector": "Cement",
+    "weight": 0.07305
+   },
+   {
+    "isin": "ZZDEMO000007",
+    "name": "Monsoon Foods Ltd",
+    "sector": "Food products",
+    "weight": 0.02721
+   }
+  ]
+ },
+ {
+  "scheme_id": "DEMO-IXF",
+  "name": "Demo Nifty 50 Index Fund F",
+  "amc": "Demo AMC Three",
+  "category": "Index",
+  "holdings_asof": "2026-10-31",
+  "plans": {
+   "direct": {
+    "isins": [
+     "ZZDEMOD00005"
+    ],
+    "amfi": "9000051",
+    "ter": 0.18
+   },
+   "regular": {
+    "isins": [
+     "ZZDEMOR00005"
+    ],
+    "amfi": "9000052",
+    "ter": 0.42
+   }
+  },
+  "holdings": [
+   {
+    "isin": "ZZDEMO000001",
+    "name": "Northwind Bank Ltd",
+    "sector": "Banking",
+    "weight": 0.20488
+   },
+   {
+    "isin": "ZZDEMO000002",
+    "name": "Lotus Bank Ltd",
+    "sector": "Banking",
+    "weight": 0.17866
+   },
+   {
+    "isin": "ZZDEMO000003",
+    "name": "Indus Software Ltd",
+    "sector": "IT services",
+    "weight": 0.15329
+   },
+   {
+    "isin": "ZZDEMO000004",
+    "name": "Saffron Energy Ltd",
+    "sector": "Energy",
+    "weight": 0.12886
+   },
+   {
+    "isin": "ZZDEMO000005",
+    "name": "Sample Co. Ltd",
+    "sector": "Consumer goods",
+    "weight": 0.10546
+   },
+   {
+    "isin": "ZZDEMO000010",
+    "name": "Narmada Telecom Ltd",
+    "sector": "Telecom",
+    "weight": 0.08321
+   },
+   {
+    "isin": "ZZDEMO000012",
+    "name": "Coral Insurance Ltd",
+    "sector": "Insurance",
+    "weight": 0.06226
+   },
+   {
+    "isin": "ZZDEMO000009",
+    "name": "Ganga Motors Ltd",
+    "sector": "Automobiles",
+    "weight": 0.04283
+   },
+   {
+    "isin": "ZZDEMO000014",
+    "name": "Konkan Paints Ltd",
+    "sector": "Consumer goods",
+    "weight": 0.02528
+   },
+   {
+    "isin": "ZZDEMO000008",
+    "name": "Deccan Pharma Ltd",
+    "sector": "Pharma",
+    "weight": 0.01027
+   }
+  ]
+ },
+ {
+  "scheme_id": "DEMO-TSG",
+  "name": "Demo Tax Saver Fund G",
+  "amc": "Demo AMC One",
+  "category": "ELSS",
+  "holdings_asof": "2026-10-31",
+  "plans": {
+   "direct": {
+    "isins": [
+     "ZZDEMOD00006"
+    ],
+    "amfi": "9000061",
+    "ter": 0.79
+   },
+   "regular": {
+    "isins": [
+     "ZZDEMOR00006"
+    ],
+    "amfi": "9000062",
+    "ter": 1.77
+   }
+  },
+  "holdings": [
+   {
+    "isin": "ZZDEMO000003",
+    "name": "Indus Software Ltd",
+    "sector": "IT services",
+    "weight": 0.18979
+   },
+   {
+    "isin": "ZZDEMO000001",
+    "name": "Northwind Bank Ltd",
+    "sector": "Banking",
+    "weight": 0.1825
+   },
+   {
+    "isin": "ZZDEMO000002",
+    "name": "Lotus Bank Ltd",
+    "sector": "Banking",
+    "weight": 0.1314
+   },
+   {
+    "isin": "ZZDEMO000005",
+    "name": "Sample Co. Ltd",
+    "sector": "Consumer goods",
+    "weight": 0.12441
+   },
+   {
+    "isin": "ZZDEMO000004",
+    "name": "Saffron Energy Ltd",
+    "sector": "Energy",
+    "weight": 0.0882
+   },
+   {
+    "isin": "ZZDEMO000010",
+    "name": "Narmada Telecom Ltd",
+    "sector": "Telecom",
+    "weight": 0.08671
+   },
+   {
+    "isin": "ZZDEMO000009",
+    "name": "Ganga Motors Ltd",
+    "sector": "Automobiles",
+    "weight": 0.05861
+   },
+   {
+    "isin": "ZZDEMO000012",
+    "name": "Coral Insurance Ltd",
+    "sector": "Insurance",
+    "weight": 0.04686
+   },
+   {
+    "isin": "ZZDEMO000006",
+    "name": "Kaveri Cement Ltd",
+    "sector": "Cement",
+    "weight": 0.02338
+   },
+   {
+    "isin": "ZZDEMO000007",
+    "name": "Monsoon Foods Ltd",
+    "sector": "Food products",
+    "weight": 0.02223
+   },
+   {
+    "isin": "ZZDEMO000011",
+    "name": "Vindhya Steel Ltd",
+    "sector": "Metals",
+    "weight": 0.00589
+   }
+  ]
+ },
+ {
+  "scheme_id": "DEMO-FOH",
+  "name": "Demo Focused Fund H",
+  "amc": "Demo AMC Four",
+  "category": "Focused",
+  "holdings_asof": "2026-10-31",
+  "plans": {
+   "direct": {
+    "isins": [
+     "ZZDEMOD00007"
+    ],
+    "amfi": "9000071",
+    "ter": 0.66
+   },
+   "regular": {
+    "isins": [
+     "ZZDEMOR00007"
+    ],
+    "amfi": "9000072",
+    "ter": 1.85
+   }
+  },
+  "holdings": [
+   {
+    "isin": "ZZDEMO000002",
+    "name": "Lotus Bank Ltd",
+    "sector": "Banking",
+    "weight": 0.30051
+   },
+   {
+    "isin": "ZZDEMO000001",
+    "name": "Northwind Bank Ltd",
+    "sector": "Banking",
+    "weight": 0.19035
+   },
+   {
+    "isin": "ZZDEMO000004",
+    "name": "Saffron Energy Ltd",
+    "sector": "Energy",
+    "weight": 0.16229
+   },
+   {
+    "isin": "ZZDEMO000003",
+    "name": "Indus Software Ltd",
+    "sector": "IT services",
+    "weight": 0.11527
+   },
+   {
+    "isin": "ZZDEMO000005",
+    "name": "Sample Co. Ltd",
+    "sector": "Consumer goods",
+    "weight": 0.06425
+   },
+   {
+    "isin": "ZZDEMO000007",
+    "name": "Monsoon Foods Ltd",
+    "sector": "Food products",
+    "weight": 0.06034
+   },
+   {
+    "isin": "ZZDEMO000010",
+    "name": "Narmada Telecom Ltd",
+    "sector": "Telecom",
+    "weight": 0.0545
+   },
+   {
+    "isin": "ZZDEMO000011",
+    "name": "Vindhya Steel Ltd",
+    "sector": "Metals",
+    "weight": 0.01249
+   }
+  ]
+ }
+]

@@ -1,0 +1,7 @@
+{
+ "dataset": "live",
+ "notice": "",
+ "holdings_source": "Fund house monthly portfolio disclosures (SEBI-mandated), as of 2026-10-31",
+ "ter_source": "AMFI total expense ratio (TER) disclosures",
+ "built_at": "2026-11-22"
+}
