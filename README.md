@@ -30,7 +30,7 @@
 |---|---|---|
 | [What it does](#what-it-does) | [Results on real data](#results) | [How the AI works](#how-the-ai-works) |
 | [Why it's different](#why-different) | [Reliability, measured](#reliability) | [The AI copilot](#copilot) |
-| [Run it in 5 minutes](#run-it) | [Architecture](#architecture) | [Limitations & what's next](#limitations) |
+| [Run it in 5 minutes](#run-it) | [Architecture](#architecture) | [Limitations](#limitations) |
 
 ---
 
@@ -102,7 +102,7 @@ Gensol's **FY2023-24 annual report** was public from **September 2024**. SEBI's 
 | 🔴 Profit rose, real cash didn't | 2-year operating cash **45%** of 2-year profit | < 50% |
 | 🟠 Customers owe more, faster than sales | Receivables **+217%** vs revenue **+144%** | gap > 20 pp |
 | ⚪ Auditor concerns / resignation | Not triggered | |
-| ⚪ Promoters pledged shares | **Not in the annual report.** The 80%+ pledge was disclosed only in exchange filings, so exchange filings lead our roadmap | > 10% |
+| ⚪ Promoters pledged shares | **Not in the annual report.** The 80%+ pledge was disclosed only in exchange filings, so the check honestly says "Not found" | > 10% |
 
 The related-party total has no single line in the report: **code adds up every row** of the transactions table (directors' pay excluded) and quotes the largest rows. A second, different AI model confirmed 3 of the 4 warnings and disputed 1, which is shown as "Models disagree" and not scored.
 
@@ -115,7 +115,7 @@ We ran the same checks, **unchanged**, on two more companies' last reports befor
 | Coffee Day Enterprises (FY2017-18) | Founder's death, July 2019; a probe later found ₹3,535 cr moved to a promoter-controlled company | The AI read promoter pledge as 62.3%, but its quote showed only total holding: **the second model rejected it, so no warning was shown.** Maybe true; not proven on the page |
 | Brightcom Group (FY2021-22) | SEBI interim order on misstated accounts, April 2023 | No warnings. Cash at 7,519% of profit was a units mix-up, now shown as "figures don't add up, not scored" |
 
-Both misses point to the same next step: **compare several years of reports, and read exchange filings.**
+Both are limits of reading **one year's report**: it cannot show a slow build-up over years, and accounts that are themselves misstated cannot be caught from their own figures.
 
 ### The same checks on large, well-run companies
 
@@ -159,7 +159,7 @@ Five popular **actively managed** funds from **five different fund houses** (ICI
 <details>
 <summary><b>Figure-check details</b></summary>
 
-The 5 mismatches: 2 equity figures that appear to include minority interests (Reliance, L&T), 1 Gensol standalone equity figure with only a consolidated reference, and 2 Reliance revenue figures that match neither basis (the receivables check used the correct ₹10.76 lakh cr). One check, L&T cash vs profit, mixed standalone and consolidated figures; on consolidated figures alone it is 71% and still passes. Enforcing one basis per check is the next fix.
+The 5 mismatches: 2 equity figures that appear to include minority interests (Reliance, L&T), 1 Gensol standalone equity figure with only a consolidated reference, and 2 Reliance revenue figures that match neither basis (the receivables check used the correct ₹10.76 lakh cr). One check, L&T cash vs profit, mixed standalone and consolidated figures; on consolidated figures alone it is 71% and still passes.
 </details>
 
 ---
@@ -341,14 +341,6 @@ docs/           user guide, technical report, deploy guide, images
 - Only processed reports are checked, and every result states how much of your money that covers.
 - The AI can miss information worded unusually or inside images: that shows as "Not found", never as a pass.
 - Fixed published thresholds, not yet relative to sector norms. Three collapse cases are case studies, not a statistical backtest.
-
-## 🧭 What's next
-
-1. **Exchange filings**: pledges, auditor resignations and rating actions within days, not once a year (would have caught Gensol's 80%+ pledge).
-2. **Multi-year reading**: compare three or more years of reports, so slow build-ups (Coffee Day) and figures that stop adding up (Brightcom) show as trends.
-3. **One basis per check**: reject ratios that mix standalone and consolidated figures.
-4. **Sector-relative thresholds** from medians across many reports.
-5. **A hand-labelled set** (10+ companies × 7 checks) with precision, recall and missed-warning rate.
 
 ---
 
