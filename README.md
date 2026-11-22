@@ -88,6 +88,8 @@ Portfolio-overlap and fee calculators already exist. **Pardarshi goes one level 
 
 ## 📈 Results on real data
 
+> **Does it flag everything?** No. Under the same rules, L&T, Infosys, HDFC Bank and SBI have **zero flags** and Reliance one; Gensol, before its collapse, had four. All figures below come from one run on 22 November 2026.
+
 **242** real schemes from 8 fund houses (October 2026 disclosures) · **1,072** companies · annual reports of HDFC Bank, Reliance, SBI, L&T, Infosys, Gensol, Coffee Day and Brightcom (175–750 pages each).
 
 ### Before the fall: Gensol Engineering
@@ -149,7 +151,7 @@ Five popular **actively managed** funds from **five different fund houses** (ICI
 
 | Test | Result |
 |---|---|
-| **Fake-quote guard**: genuine quotes and altered ones (numbers, words, pages) | **97.1%** of altered quotes rejected; genuine accepted |
+| **Fake-quote guard**: genuine quotes and altered ones (numbers, words, pages) | **102 of 105** altered quotes rejected (97.1%): invented 39/39, wrong page 38/39, changed number 25/27; genuine **39 of 39** accepted |
 | **Failure drills**: AI down, rate-limited, timeouts, no key | **6 / 6** passed; answers from verified findings |
 | **Second AI model** re-reads the full cited pages | Agreed with **4 of 6** warnings; the 2 disputed are shown, not scored |
 | **Figures vs an independent source** (screener.in) | **23 of 28 (82%)** are real published figures; 6 had the wrong standalone/consolidated label |
