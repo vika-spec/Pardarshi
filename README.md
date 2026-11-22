@@ -94,7 +94,7 @@ Portfolio-overlap and fee calculators already exist. **Pardarshi goes one level 
 
 ![Gensol: warning signs in its report, 7 months before SEBI acted](docs/img/gensol_backtest.png)
 
-Gensol's **FY2023-24 annual report** was public from **September 2024**. SEBI's interim order came on **15 April 2025** (alleged diversion of borrowed funds; the share fell over 90%). Using only that report:
+Gensol's **FY2023-24 annual report** was public from **September 2024**. SEBI's [interim order](https://www.sebi.gov.in/enforcement/orders/apr-2025/interim-order-in-the-matter-of-gensol-engineering-limited_93458.html) came on **15 April 2025** (alleged diversion of borrowed funds; the share fell over 90%). Using only that report:
 
 | Check | What the pre-collapse report showed | Rule |
 |---|---|---|
@@ -105,7 +105,7 @@ Gensol's **FY2023-24 annual report** was public from **September 2024**. SEBI's 
 | ⚪ Auditor concerns / resignation | Not triggered | |
 | ⚪ Promoters pledged shares | **Not in the annual report.** The 80%+ pledge was disclosed only in exchange filings, so the check honestly says "Not found" | > 10% |
 
-The related-party total has no single line in the report: **code adds up every row** of the transactions table (directors' pay excluded) and quotes the largest rows. A second, different AI model confirmed 3 of the 4 warnings and disputed 1, which is shown as "Models disagree" and not scored.
+The related-party total has no single line in the report: **code adds up every row** of the transactions table (directors' pay excluded) and quotes the largest rows. Read the 192% with care: it is a **gross** sum of all categories (loans received and given, sales, purchases, deposits), not money diverted. The warning doesn't depend on it: **loans given to related parties alone were ₹804.91 cr, 84% of revenue**, over eight times the 10% limit. A second, different AI model confirmed 3 of the 4 warnings and disputed 1, which is shown as "Models disagree" and not scored.
 
 ### Two more collapses: what one annual report could not show
 
@@ -155,7 +155,7 @@ Five popular **actively managed** funds from **five different fund houses** (ICI
 | **Figures vs an independent source** (screener.in) | **23 of 28 (82%)** are real published figures; 6 had the wrong standalone/consolidated label |
 | **Impossible results** | A ratio beyond ±1,000% is "figures don't add up, not scored", never "healthy" |
 | **Speed** (2 vCPU) | ~4 ms per analysis; **477 req/s** at 50 concurrent users, 0 errors, p95 175 ms |
-| **Automated tests** | **91**, run with all API keys blanked |
+| **Automated tests** | **91**, run with all API keys blanked. They prove the software behaves as specified; financial accuracy is measured by the figure check above |
 
 <details>
 <summary><b>Figure-check details</b></summary>
@@ -313,7 +313,7 @@ All holdings are packed into one `funds × stocks` matrix at startup, so a full 
 | Profit rose, real cash didn't | 2-year operating cash < 50% of 2-year profit, or cash fell while profit rose (and cash < profit) |
 | Customers owe more, faster than sales | receivables growth − revenue growth > 20 pp |
 
-**Severity:** High (≥ 3× past the limit), Moderate (1.5–3×), Low (< 1.5×). **Transparency Score:** each company starts at 100 and loses 30 / 15 / 5 per High / Moderate / Low verified warning; the portfolio score is rupee-weighted and always shown with coverage. Banks and insurers skip three checks built for ordinary businesses.
+**Severity:** High (≥ 3× past the limit), Moderate (1.5–3×), Low (< 1.5×). **Transparency Score:** each company starts at 100 and loses 30 / 15 / 5 per High / Moderate / Low verified warning; the portfolio score is rupee-weighted and always shown with coverage. The 30/15/5 weights are a simple ordinal choice, not fitted to data: the score is an **experimental disclosure indicator**, not a probability of financial distress. Banks and insurers skip three checks built for ordinary businesses.
 </details>
 
 <details>
